@@ -1,0 +1,1343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reels Riffs & Ridgelines//digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Coast Trip
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:5943e39a99b8e871@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20261101
+SUMMARY:Andelin Family Farm Fall Festival — Andelin Family Farm\, Spark
+ s
+LOCATION:8100 Pyramid Hwy\, Sparks\, NV 89436
+DESCRIPTION:[auto:westcoast]\nType: food\nGenre: Harvest festival / pumpk
+ in patch\nPrice: not listed (ticketed)\nWhere: Reno\, NV\nSource: andeli
+ nfamilyfarm.com\nCorn maze\, pumpkin patch\, animals and farm food\, Wed
+ -Sat 10am-7pm through October. Sparks\, ~20 min northeast of downtown.\n
+ https://www.andelinfamilyfarm.com/fall-festival
+URL:https://www.andelinfamilyfarm.com/fall-festival
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:25d149b30662197a@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Olympic National Park day trip: Hurricane Ridge / Hoh Rain Forest
+  (ongoing) — Olympic National Park
+LOCATION:3002 Mount Angeles Rd\, Port Angeles\, WA 98362
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: National park / rain
+ forest\nPrice: $30/vehicle (7-day pass)\nWhere: Seattle\, WA\nSource: np
+ s.gov\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedul
+ e\nLong day from Seattle (ferry + 2-3hr drive). Hoh Rain Forest is the c
+ losest mainland analogue to Ketchikan's Tongass rainforest. Check nps.go
+ v for Hurricane Ridge road hours and any closures.\nhttps://www.nps.gov/
+ olym/planyourvisit/index.htm
+URL:https://www.nps.gov/olym/planyourvisit/index.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:be2e7f1c60aeeacb@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Mount Rainier NP fall color day trip (ongoing\, with October 
+ closures) — Mount Rainier National Park
+LOCATION:39000 State Route 706 E\, Ashford\, WA 98304
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Nation
+ al park / fall foliage\nPrice: $30/vehicle (7-day pass)\nWhere: Seattle\
+ , WA\nSource: nps.gov\n⚠ TIME NOT CONFIRMED — assumed from the venue
+ 's usual schedule\nSubalpine color at Paradise peaks late Sept-early Oct
+ . NOTE: the Sunrise road closes to vehicles at the White River gate afte
+ r ~Oct 8\, and Stevens Canyon Rd has construction closures. Longmire and
+  the Paradise area stay open. Confirm conditions before driving.\nhttps:
+ //www.nps.gov/mora/learn/news/fall-transition.htm
+URL:https://www.nps.gov/mora/learn/news/fall-transition.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d79bd3d8a7def282@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261023
+SUMMARY:★ Flume Trail & Tahoe Rim Trail (fall riding and hiking) — Ta
+ hoe Meadows to Spooner / Tahoe Rim Trail
+LOCATION:Tahoe Meadows Trailhead\, NV-431\, Incline Village\, NV 89451
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Mounta
+ in biking / Hiking\nPrice: not listed (shuttle fee)\nWhere: Tahoe City\,
+  CA\nSource: tahoerimtrail.org\n⚠ TIME NOT CONFIRMED — assumed from 
+ the venue's usual schedule\nThe IMBA Epic - 1\,600 ft of cliff-edge flum
+ e above the lake\, and October is the best month for it (no heat\, no cr
+ owds). Trailhead is ~35 min from Tahoe City on the Nevada side. Check ta
+ hoerimtrail.org for early-snow closures.\nhttps://tahoerimtrail.org/curr
+ ent-trail-conditions/
+URL:https://tahoerimtrail.org/current-trail-conditions/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:61234b41e170841a@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Deer Mountain Trail (year-round trailhead) — Deer Mountain 
+ Trailhead
+LOCATION:Ketchikan Lakes Rd / Deermount St\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Hiking
+ \nPrice: Free\nWhere: Ketchikan\, AK\nSource: alaska.org / adfg.alaska.g
+ ov\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule\n
+ Ketchikan's iconic backdrop: ~5 miles\, 2\,600 ft gain\, trailhead walka
+ ble from downtown. Open year-round but expect mud\, heavy rain and possi
+ ble early snow above treeline in October. The first 1-1.5 miles to the l
+ ower overlooks is the realistic autumn option.\nhttps://www.fs.usda.gov/
+ r10/tongass
+URL:https://www.fs.usda.gov/r10/tongass
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:46a1aec7503ccecd@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Totem Bight State Historical Park (year-round\, free) — Tot
+ em Bight State Historical Park
+LOCATION:9883 N Tongass Hwy\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Totem 
+ park / cultural site\nPrice: Free\nWhere: Ketchikan\, AK\nSource: dnr.al
+ aska.gov\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual sche
+ dule\n14 restored totems and a clan house on a wooded shoreline 10 miles
+  north of town\, open year-round\, no fee\, self-guided. Works fine with
+ out a tour bus and is unusually good in low October light.\nhttps://dnr.
+ alaska.gov/parks/units/totembgh.htm
+URL:https://dnr.alaska.gov/parks/units/totembgh.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f1c44b43b8ea269@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Washington Park Arboretum fall color (ongoing) — Washington
+  Park Arboretum
+LOCATION:2300 Arboretum Dr E\, Seattle\, WA 98112
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Fall f
+ oliage / garden walk\nPrice: Free\nWhere: Seattle\, WA\nSource: botanicg
+ ardens.uw.edu\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual
+  schedule\n230 acres\; Azalea Way and the Japanese maples peak mid-to-la
+ te October. Free\, open dawn to dusk. Best single fall-color walk inside
+  Seattle city limits.\nhttps://botanicgardens.uw.edu/washington-park-arb
+ oretum/
+URL:https://botanicgardens.uw.edu/washington-park-arboretum/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e890b956f84286d1@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Discovery Park Loop Trail & West Point Lighthouse (ongoing) — D
+ iscovery Park
+LOCATION:3801 Discovery Park Blvd\, Seattle\, WA 98199
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Hiking\nPrice: Free\
+ nWhere: Seattle\, WA\nSource: seattle.gov\n⚠ TIME NOT CONFIRMED — as
+ sumed from the venue's usual schedule\n2.8-mile loop through bluff meado
+ w and forest with Olympics and Sound views. Visitor center has maps\; ch
+ eck the seasonal shuttle for lighthouse beach access.\nhttps://www.seatt
+ le.gov/parks/allparks/discovery-park
+URL:https://www.seattle.gov/parks/allparks/discovery-park
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4ae4b496546907ef@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Pike Place Market (ongoing\, permanent public market) — Pik
+ e Place Market
+LOCATION:85 Pike St\, Seattle\, WA 98101
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Public mar
+ ket\nPrice: Free to browse\nWhere: Seattle\, WA\nSource: pikeplacemarket
+ .org\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule
+ \nNot an event — a permanent daily market (roughly 9am-6pm\, farm/craf
+ t stalls vary by day). Listed once as a standing option: fish\, produce\
+ , Rachel's Ginger Beer\, Pike Place Chowder\, the original Starbucks que
+ ue.\nhttps://www.pikeplacemarket.org/
+URL:https://www.pikeplacemarket.org/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa7dff0640622c2@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261019
+SUMMARY:★ Ballard Farmers Market (Sundays\, year-round) — Ballard Ave
+ nue NW
+LOCATION:Ballard Ave NW between 20th & 22nd Ave NW\, Seattle\, WA 98107
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Farmers ma
+ rket\nPrice: Free entry\nWhere: Seattle\, WA\nSource: sfmamarkets.com\nS
+ eattle's original year-round neighborhood market\, Sundays 9am-2pm\, Was
+ hington-grown only. Falls on Sep 27\, Oct 4\, 11 and 18 during the trip.
+  Rain or shine.\nhttp://www.sfmamarkets.com/visit-ballard-farmers-market
+URL:http://www.sfmamarkets.com/visit-ballard-farmers-market
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c21741f3fdd65b9e@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261023
+SUMMARY:★ South Yuba River State Park - Independence Trail & Bridgeport
+  Covered Bridge — South Yuba River State Park (Bridgeport)
+LOCATION:17660 Pleasant Valley Rd\, Penn Valley\, CA 95946
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Hiking
+  / Wheelchair-accessible trail\nPrice: Free (day use)\nWhere: Nevada Cit
+ y\, CA\nSource: parks.ca.gov\n⚠ TIME NOT CONFIRMED — assumed from th
+ e venue's usual schedule\nFlume-turned-trail\, largely level and accessi
+ ble\, plus the longest single-span covered bridge in the US. Fall is the
+  best season - low water\, no crowds. The park's own events page was 'un
+ der construction'\; call the visitor center for scheduled naturalist wal
+ ks.\nhttps://www.parks.ca.gov/?page_id=496
+URL:https://www.parks.ca.gov/?page_id=496
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f385340543122fb8@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261023
+SUMMARY:Malakoff Diggins SHP - hydraulic mining pit & North Bloomfield gh
+ ost town — Malakoff Diggins State Historic Park
+LOCATION:23579 N Bloomfield-Graniteville Rd\, Nevada City\, CA 95959
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Hiking / Historic si
+ te\nPrice: not listed (day-use fee)\nWhere: Nevada City\, CA\nSource: pa
+ rks.ca.gov\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual sc
+ hedule\nOtherworldly eroded cliffs from hydraulic mining\, ~45 min up a 
+ winding road from Nevada City. Best in dry fall weather\; check road con
+ ditions.\nhttps://www.parks.ca.gov/?page_id=494
+URL:https://www.parks.ca.gov/?page_id=494
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:39a6916c5674d3c9@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261016
+SUMMARY:★ Downieville Downhill mountain biking (shuttle season) — Dow
+ nieville\, CA (Sierra County)
+LOCATION:Downieville\, CA 95936
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Mounta
+ in biking\nPrice: not listed (shuttle fee)\nWhere: Nevada City\, CA\nSou
+ rce: downievilleoutfitters.net\n⚠ TIME NOT CONFIRMED — assumed from 
+ the venue's usual schedule\nLegendary 15-mile shuttle-served descent\, ~
+ 1 hr north of Nevada City. Shuttles typically run into October weather p
+ ermitting - confirm dates directly\, they were not published.\nhttps://w
+ ww.downievilleoutfitters.net/
+URL:https://www.downievilleoutfitters.net/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4270aed1a37942ef@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261023
+SUMMARY:Apple Hill harvest season (Placerville) — Apple Hill Growers\, 
+ Camino / Placerville
+LOCATION:Camino\, CA 95709
+DESCRIPTION:[auto:westcoast]\nType: food\nGenre: Harvest festival / Apple
+  orchards\nPrice: Free entry\; varies by ranch\nWhere: Nevada City\, CA\
+ nSource: applehill.com\n⚠ TIME NOT CONFIRMED — assumed from the venu
+ e's usual schedule\nPeak apple/cider/pie season runs September through O
+ ctober across 50+ ranches. It's ~1 hr 45 min south of Nevada City\, so i
+ t's a detour rather than a day trip - best combined with a drive toward 
+ Tahoe.\nhttps://applehill.com/
+URL:https://applehill.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f8cb5656b3c0b290@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261023
+SUMMARY:★ Page Meadows loop hike — Page Meadows (Ward Canyon)
+LOCATION:Silver Tip Dr\, Tahoe City\, CA 96145
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Hiking
+  / Fall color\nPrice: Free\nWhere: Tahoe City\, CA\nSource: tahoeactivit
+ ies.com\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual sched
+ ule\nEasy meadow-and-aspen loop literally minutes from downtown Tahoe Ci
+ ty - the single best low-effort fall color walk in the area.\nhttps://ww
+ w.tahoeactivities.com/guide-lake-tahoe-fall-colors/
+URL:https://www.tahoeactivities.com/guide-lake-tahoe-fall-colors/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5305ef8b41fc7@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261016
+SUMMARY:Kayak & SUP on Lake Tahoe from Commons Beach — Commons Beach / 
+ Tahoe City Marina
+LOCATION:400 N Lake Blvd\, Tahoe City\, CA 96145
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Kayak / SUP\nPrice: 
+ not listed\nWhere: Tahoe City\, CA\nSource: gotahoenorth.com\n⚠ TIME N
+ OT CONFIRMED — assumed from the venue's usual schedule\nGlassy water a
+ nd empty shoreline in early October\, but rental operators wind down mid
+ -month and afternoon winds pick up - go early and confirm the outfitter 
+ is still open.\nhttps://www.gotahoenorth.com/
+URL:https://www.gotahoenorth.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b98642028e6f42fc@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261023
+SUMMARY:Sugar Pine Point State Park & Tahoe State Recreation Area — Sug
+ ar Pine Point SP (Tahoma)
+LOCATION:7360 W Lake Blvd\, Tahoma\, CA 96142
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Hiking / Lakeshore /
+  Historic estate\nPrice: not listed (day-use fee)\nWhere: Tahoe City\, C
+ A\nSource: sierrastateparks.org\n⚠ TIME NOT CONFIRMED — assumed from
+  the venue's usual schedule\nEhrman Mansion grounds\, old-growth pines a
+ nd a quiet stretch of west shore\, ~15 min south of Tahoe City. Mansion 
+ tour season typically ends in fall - confirm before driving down.\nhttps
+ ://www.sierrastateparks.org/our-parks
+URL:https://www.sierrastateparks.org/our-parks
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:afc4fb302fe14d82@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Rainbird Trail (year-round\, in-town rainforest walk) — Rainbir
+ d Trail
+LOCATION:Third Ave Bypass / UAS Ketchikan campus\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Hiking\nPrice: Free\
+ nWhere: Ketchikan\, AK\nSource: alaska.org\n⚠ TIME NOT CONFIRMED — a
+ ssumed from the venue's usual schedule\nModerate ~1.3-mile in-town trail
+  through genuine Southeast Alaska rainforest with downtown and Tongass N
+ arrows views. Ideal for a wet October morning with no car.\nhttps://www.
+ fs.usda.gov/r10/tongass
+URL:https://www.fs.usda.gov/r10/tongass
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b031e7d620ddca20@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Ward Lake Nature Trail & Ward Creek (year-round) — Ward Lake Re
+ creation Area\, Tongass National Forest
+LOCATION:Revilla Rd\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Hiking / rainforest\
+ nPrice: Free\nWhere: Ketchikan\, AK\nSource: alaska.org\n⚠ TIME NOT CO
+ NFIRMED — assumed from the venue's usual schedule\nFlat 1-mile gravel 
+ loop around a lake under old-growth spruce and hemlock\, ~7 miles north 
+ of town. The easiest\, most reliable Tongass experience in October\; lat
+ e coho may still be in Ward Creek. Connects to the longer Ward Creek tra
+ il.\nhttps://www.fs.usda.gov/r10/tongass
+URL:https://www.fs.usda.gov/r10/tongass
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:54009d7755cf17de@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Perseverance Lake Trail (year-round) — Perseverance Trailhead\,
+  Ward Lake Recreation Area
+LOCATION:Revilla Rd\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Hiking\nPrice: Free\
+ nWhere: Ketchikan\, AK\nSource: alaska.org\n⚠ TIME NOT CONFIRMED — a
+ ssumed from the venue's usual schedule\nEasy ~4.4 miles round trip\, ~45
+ 0 ft gain\, much of it boardwalk\, ending at a mountain lake. A local fa
+ vorite and very doable in the rain.\nhttps://www.fs.usda.gov/r10/tongass
+URL:https://www.fs.usda.gov/r10/tongass
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:446edd3ea5faf187@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Saxman Native Village & Totem Park — Saxman Totem Park
+LOCATION:2.5 Mile S Tongass Hwy\, Saxman\, AK 99901
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Totem park / cultura
+ l site\nPrice: Grounds free\; guided tours ticketed\nWhere: Ketchikan\, 
+ AK\nSource: alaska.org\n⚠ TIME NOT CONFIRMED — assumed from the venu
+ e's usual schedule\nCAVEAT: the world's largest standing collection of t
+ otem poles\, but the narrated tours\, carving-shed demonstrations and Ca
+ pe Fox dance performances are built around the cruise season and are unl
+ ikely to be running in October. The grounds are generally walkable — c
+ all Cape Fox Tours first.\nhttps://www.capefoxtours.com/
+URL:https://www.capefoxtours.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b07332dfa110d26d@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Salmon viewing at the Ballard Locks fish ladder (ongoing) —
+  Hiram M. Chittenden Locks
+LOCATION:3015 NW 54th St\, Seattle\, WA 98107
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Wildli
+ fe viewing\nPrice: Free\nWhere: Seattle\, WA\nSource: usace.army.mil\n
+ ⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule\nUnde
+ rwater viewing windows\; coho run typically holds into October\, though 
+ numbers thin as the month goes on. Free\, open daily\, and the botanical
+  garden next door is good fall color.\nhttps://www.nws.usace.army.mil/Mi
+ ssions/Civil-Works/Locks-and-Dams/Chittenden-Locks/
+URL:https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Ch
+ ittenden-Locks/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b55b3822681977b2@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Taste of Seattle guided food walking tours (ongoing) — Pike Pla
+ ce Market / Capitol Hill / Downtown
+LOCATION:Seattle\, WA
+DESCRIPTION:[auto:westcoast]\nType: food\nGenre: Food walking tour\nPrice
+ : $50-$109\nWhere: Seattle\, WA\nSource: events12.com\n⚠ TIME NOT CONF
+ IRMED — assumed from the venue's usual schedule\nRuns most days Octobe
+ r through December. Book a specific departure time — the listed time h
+ ere is a placeholder.\nhttps://www.events12.com/seattle/october/
+URL:https://www.events12.com/seattle/october/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a19bf0de2453eae5@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261023
+SUMMARY:Empire Mine State Historic Park - grounds\, gardens & mine yard 
+ — Empire Mine SHP (Grass Valley)
+LOCATION:10791 E Empire St\, Grass Valley\, CA 95945
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Hiking / Gold Rush h
+ istory\nPrice: not listed (day-use fee)\nWhere: Nevada City\, CA\nSource
+ : parks.ca.gov\n⚠ TIME NOT CONFIRMED — assumed from the venue's usua
+ l schedule\nOne of the richest hardrock gold mines in California\, with 
+ 14 miles of trails and the Bourn Cottage gardens. ~10 min from Nevada Ci
+ ty. Docent tour schedule not published for these dates.\nhttps://www.par
+ ks.ca.gov/EmpireMine/
+URL:https://www.parks.ca.gov/EmpireMine/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:63cf6c59e8d5cbde@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261016
+SUMMARY:Yuba River swimming holes & recreational gold panning — South Y
+ uba River (Highway 49 Crossing / Edwards Crossing)
+LOCATION:Hwy 49 Crossing\, Nevada City\, CA 95959
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: River / Swimming / G
+ old panning\nPrice: Free\nWhere: Nevada City\, CA\nSource: parks.ca.gov\
+ n⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule\nWat
+ er is cold by October but the granite pools and riverside walking are st
+ ill the local ritual. The park's formal gold-panning demos run Memorial 
+ Day-Labor Day only\; self-guided panning is allowed year-round with a ha
+ nd pan.\nhttps://www.parks.ca.gov/?page_id=496
+URL:https://www.parks.ca.gov/?page_id=496
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b12b016d4f2fc78d@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Misty Fjords National Monument flightseeing & boat tours (sea
+ sonal) — Ketchikan waterfront / float plane docks
+LOCATION:Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Flight
+ seeing / boat tour\nPrice: Typically $250-$400 per person in season\nWhe
+ re: Ketchikan\, AK\nSource: islandwings.com / alaskashoreexcursions.com\
+ n⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule\nMAJ
+ OR CAVEAT: this is the great Ketchikan experience\, but the main cruise 
+ season is May-September and most operators either stop or go on-call in 
+ October. Some small flightseeing outfits (e.g. Island Wings) will fly fo
+ r private bookings when weather allows. October weather in Southeast scr
+ ubs a high share of flights. Call ahead\, book a flexible date\, and hav
+ e a backup plan. Price is a typical in-season range\, not a confirmed Oc
+ tober quote.\nhttps://www.islandwings.com/mistytours.html
+URL:https://www.islandwings.com/mistytours.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0ab4dcc846e17153@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Tongass Historical Museum & Totem Heritage Center (winter hours) 
+ — Ketchikan Museums
+LOCATION:629 Dock St / 601 Deermount St\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Museums / cultural s
+ ites\nPrice: not listed\nWhere: Ketchikan\, AK\nSource: ketchikan.gov\n
+ ⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule\nThe 
+ Totem Heritage Center holds 19th-century unrestored poles recovered from
+  abandoned village sites — the most striking indoor thing in Ketchikan
+ . Both switch to reduced winter hours after cruise season\; I could not 
+ load the October calendar. Call (907) 225-3111 to confirm days and hours
+  before going.\nhttps://www.ketchikan.gov/departments/Museum
+URL:https://www.ketchikan.gov/departments/Museum
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:566468b3d3ab6966@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:Great Alaskan Lumberjack Show (seasonal - likely closed) — Grea
+ t Alaskan Lumberjack Show
+LOCATION:420 Spruce Mill Way\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Outdoor show (season
+ al)\nPrice: not listed\nWhere: Ketchikan\, AK\nSource: alaskanlumberjack
+ show.com\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual sche
+ dule\nCAVEAT: Ketchikan's best-known tourist show\, but it runs on the c
+ ruise schedule and 2026 closing dates were not published on their site. 
+ Almost certainly finished for the season by late September/early October
+ . Call (907) 225-9050 before counting on it.\nhttps://alaskanlumberjacks
+ how.com/
+URL:https://alaskanlumberjackshow.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2907f94361fb0947@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Weekly open mics: New York Cafe\, Sun/Tue/Thu nights (recurri
+ ng) — New York Cafe / various Ketchikan venues
+LOCATION:207 Stedman St\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Open mic 
+ / local live music\nPrice: Free or low cover\nWhere: Ketchikan\, AK\nSou
+ rce: ketchikanarts.org\n⚠ TIME NOT CONFIRMED — assumed from the venu
+ e's usual schedule\nCONFIRMED for September\, October NOT confirmed: the
+  Arts Council calendar lists Sunday open mic with Joe Williams IV (6pm)\
+ , Tuesday open mic (6pm)\, Thursday open mic with Evan Porter & Mario Su
+ mner (8pm). These are the realistic way to hear live music in an 8\,000-
+ person town in October. Check ketchikanarts.org or call (907) 225-2211 t
+ he week you arrive.\nhttps://www.ketchikanarts.org/events-performances/f
+ ull-arts-calendar.html
+URL:https://www.ketchikanarts.org/events-performances/full-arts-calendar.
+ html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:559d796116f53f2d@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:Hauntober in Virginia City (ghost walks\, Gold Hill Hotel haunted
+  tours Oct 8/15/29) — Virginia City\, NV
+LOCATION:Virginia City\, NV 89440
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Historic walking tou
+ rs / seasonal\nPrice: varies\; tours not listed\nWhere: Reno\, NV\nSourc
+ e: visitvirginiacitynv.com\n⚠ TIME NOT CONFIRMED — assumed from the 
+ venue's usual schedule\nMonth-long programming in one of America's most-
+ claimed-haunted towns\; the walking is the point. ~35 min from Reno.\nht
+ tps://visitvirginiacitynv.com/events/month/2026-10/
+URL:https://visitvirginiacitynv.com/events/month/2026-10/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7a796ced5c668d3e@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261023
+SUMMARY:★ Nevada City / Grass Valley Fall Color — Historic downtown +
+  Victorian neighborhoods
+LOCATION:Nevada City\, CA 95959
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Fall c
+ olor / Walking\nPrice: Free\nWhere: Nevada City\, CA\nSource: nevadacity
+ chamber.com\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual s
+ chedule\nChamber calls this one of California's best foliage areas\; liq
+ uidambar and maple peak mid-to-late October right in the Victorian stree
+ ts. Ongoing\, no fixed times.\nhttps://www.nevadacitychamber.com/nevada-
+ city-events/
+URL:https://www.nevadacitychamber.com/nevada-city-events/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6935860392c140d3@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261023
+SUMMARY:★ Kokanee Salmon Run at Taylor Creek — Taylor Creek Visitor C
+ enter / Rainbow Trail (South Lake Tahoe)
+LOCATION:Visitor Center Rd\, South Lake Tahoe\, CA 96150
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Wildli
+ fe viewing / Salmon run\nPrice: Free (parking fee may apply)\nWhere: Tah
+ oe City\, CA\nSource: tahoedailytribune.com / sierrasun.com\n⚠ TIME NO
+ T CONFIRMED — assumed from the venue's usual schedule\nLANDS SQUARELY 
+ IN THE TRIP WINDOW - October is the run\, with the creek turning bright 
+ red and the Rainbow Trail stream profile chamber letting you watch under
+ water. Caveat: it's on the SOUTH shore\, ~1 hr from Tahoe City\, and in 
+ drought years low flows have blocked the run. The associated Fall Fish F
+ estival is usually the first weekend of October but no 2026 date was pub
+ lished anywhere I could find.\nhttps://www.fs.usda.gov/ltbmu
+URL:https://www.fs.usda.gov/ltbmu
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:38089f9f4127923b@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261023
+SUMMARY:★ Fall Aspen Color - Page Meadows\, Hope Valley\, Taylor Creek 
+ — Page Meadows (Tahoe City) / Hope Valley (Hwy 88-89)
+LOCATION:Page Meadows Trailhead\, Tahoe City\, CA 96145
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Fall c
+ olor / Hiking & scenic drive\nPrice: Free\nWhere: Tahoe City\, CA\nSourc
+ e: tahoeactivities.com\n⚠ TIME NOT CONFIRMED — assumed from the venu
+ e's usual schedule\nPEAK IS THE SECOND OR THIRD WEEK OF OCTOBER - dead c
+ enter of the trip. Page Meadows is the walkable one\, minutes from Tahoe
+  City\; Hope Valley (~1hr south) is the spectacular one. Higher elevatio
+ ns turn first. Exact peak shifts with cold snaps.\nhttps://www.tahoeacti
+ vities.com/guide-lake-tahoe-fall-colors/
+URL:https://www.tahoeactivities.com/guide-lake-tahoe-fall-colors/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eae0e7cc29d790f6@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Al Di Meola Acoustic Ensemble — Dimitriou's Jazz Alley
+LOCATION:2033 6th Ave\, Seattle\, WA 98121
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Acoustic jazz-fusion\nP
+ rice: not listed\nWhere: Seattle\, WA\nSource: jazzalley.com\n⚠ TIME N
+ OT CONFIRMED — assumed from the venue's usual schedule\nFour-night run
+  Thu-Sun. Virtuoso acoustic guitar\; improv-heavy.\nhttps://www.jazzalle
+ y.com/www-home/calendar.jsp
+URL:https://www.jazzalley.com/www-home/calendar.jsp
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70aa418e9b240d80@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261025
+SUMMARY:★ Southeast Alaska Discovery Center (open Fri & Sat\, free in w
+ inter) — Southeast Alaska Discovery Center
+LOCATION:50 Main St\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Tongas
+ s NF interpretive center\nPrice: Free Oct 1-Apr 30 (no entry fee)\nWhere
+ : Ketchikan\, AK\nSource: fs.usda.gov\nCONFIRMED: from Oct 1 the hours d
+ rop to Fridays and Saturdays only\, 8am-4pm\, and admission becomes free
+  (it's $5 May-Sept). Best rainy-day orientation to the Tongass rainfores
+ t\, Native cultures and the fishing industry. Plan a Friday or Saturday.
+ \nhttps://www.fs.usda.gov/r10/tongass/recreation/southeast-alaska-discov
+ ery-center
+URL:https://www.fs.usda.gov/r10/tongass/recreation/southeast-alaska-disco
+ very-center
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:09795819c0a09a5a@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:Seattle Greek Festival — St. Demetrios Greek Orthodox Church
+LOCATION:2100 Boyer Ave E\, Seattle\, WA 98112
+DESCRIPTION:[auto:westcoast]\nType: food\nGenre: Cultural food festival\n
+ Price: Free admission\nWhere: Seattle\, WA\nSource: events12.com\n⚠ TI
+ ME NOT CONFIRMED — assumed from the venue's usual schedule\nGyros\, so
+ uvlaki\, lamb\, a Greek deli and dancers in Montlake. Free entry\, pay p
+ er plate. Times estimated.\nhttps://www.seattlegreekfestival.com/
+URL:https://www.seattlegreekfestival.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9baa192401d620@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261130
+SUMMARY:Dragon Lights Reno: 'Many Worlds Aglow' — Wilbur D. May Arboret
+ um\, Rancho San Rafael Regional Park
+LOCATION:1595 N Sierra St\, Reno\, NV 89503
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Outdoor lantern fest
+ ival\nPrice: $23.75-27 adult / $17.75-19.75 child\nWhere: Reno\, NV\nSou
+ rce: visitrenotahoe.com\nGiant silk lanterns through the arboretum\, 6-1
+ 0pm nightly Oct 2-Nov 1. A good after-dark walk in a real park.\nhttps:/
+ /www.visitrenotahoe.com/events/dragon-lights-reno
+URL:https://www.visitrenotahoe.com/events/dragon-lights-reno
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3e99e30b5b54b9@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261024
+SUMMARY:Live Music at the New York Cafe\, Fridays (recurring) — New Yor
+ k Cafe
+LOCATION:207 Stedman St\, Ketchikan\, AK 99901
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Local live music\nPrice
+ : Free or low cover\nWhere: Ketchikan\, AK\nSource: ketchikanarts.org\n
+ ⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule\nCONF
+ IRMED for September\, October NOT confirmed: the Arts Council calendar l
+ ists live music at the New York Cafe every Friday at 7pm. Falls on Oct 2
+ \, 9\, 16 during the trip. Confirm locally.\nhttps://www.ketchikanarts.o
+ rg/events-performances/full-arts-calendar.html
+URL:https://www.ketchikanarts.org/events-performances/full-arts-calendar.
+ html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d81030851c8372f2@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261003T150000Z
+DTEND:20261003T180000Z
+SUMMARY:North Bend Trail Fest — North Bend trails
+LOCATION:North Bend\, WA 98045
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Trail race\nPrice: n
+ ot listed\nWhere: Seattle\, WA\nSource: runguides.com\n⚠ TIME NOT CONF
+ IRMED — assumed from the venue's usual schedule\nTrail race in the Sno
+ qualmie foothills\; multiple distances. Time estimated.\nhttps://www.run
+ guides.com/seattle/runs
+URL:https://www.runguides.com/seattle/runs
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:578e2df1312cd2a8@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:★ Issaquah Salmon Days Festival (57th annual) — Historic Down
+ town Issaquah & Issaquah Salmon Hatchery
+LOCATION:125 W Sunset Way\, Issaquah\, WA 98027
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Salmon
+  run / community festival\nPrice: Free\nWhere: Seattle\, WA\nSource: sal
+ mondays.org\n⚠ TIME NOT CONFIRMED — assumed from the venue's usual s
+ chedule\nWatch spawning salmon at the hatchery\, then 400 vendors\, a sa
+ lmon BBQ\, parade and live music. The single best outdoors-plus-food day
+  of the trip.\nhttps://www.salmondays.org/
+URL:https://www.salmondays.org/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2453939550d605d2@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:★ OysterFest (Washington State Seafood Festival) — Mason Coun
+ ty Fairgrounds
+LOCATION:4-H Way\, Shelton\, WA 98584
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Oyster/sea
+ food festival\nPrice: Ticketed\, price not listed\nWhere: Seattle\, WA\n
+ Source: events12.com\n⚠ TIME NOT CONFIRMED — assumed from the venue'
+ s usual schedule\nThe Northwest's big oyster festival — oyster shuckin
+ g championships\, food pavilion\, wine and microbrews\, two music stages
+ . About 1hr 45min from Seattle. Times estimated.\nhttps://oysterfest.org
+ /
+URL:https://oysterfest.org/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:04027e6b033ee2fa@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Skagit Valley Farm to Pint / Farm Festival — Skagit Valley farm
+ s
+LOCATION:Mount Vernon\, WA 98273
+DESCRIPTION:[auto:westcoast]\nType: food\nGenre: Harvest / farm tour\nPri
+ ce: Free\nWhere: Seattle\, WA\nSource: events12.com\nSelf-guided tour of
+  a dozen Skagit Valley farms\, 10am-4pm — samples\, farmers\, animals.
+  About an hour north.\nhttps://www.events12.com/seattle/october/
+URL:https://www.events12.com/seattle/october/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bc254f02d1cbcf7c@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261003T180000Z
+DTEND:20261004T010000Z
+SUMMARY:★ Fishermen's Festival — Fishermen's Terminal
+LOCATION:3919 18th Ave W\, Seattle\, WA 98119
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Seafood fe
+ stival\nPrice: Free\nWhere: Seattle\, WA\nSource: events12.com\nFree Bal
+ lard seafood festival at the working fishing fleet's home dock — seafo
+ od vendors\, live music\, beer garden\, ship canal tours\, 11am-6pm. Ver
+ y Seattle.\nhttps://www.portseattle.org/
+URL:https://www.portseattle.org/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea795783403f7a2@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261003T180000Z
+DTEND:20261004T030000Z
+SUMMARY:U District Food Walk — University Way NE (The Ave)
+LOCATION:4500 University Way NE\, Seattle\, WA 98105
+DESCRIPTION:[auto:westcoast]\nType: food\nGenre: Food crawl\nPrice: Free 
+ entry\; $6 bites\nWhere: Seattle\, WA\nSource: events12.com\nCar-free Av
+ e with $6 tasting plates from 70 businesses\, 11am-8pm. Cheap\, walkable
+ \, and a great cross-section of Seattle's immigrant food scene.\nhttps:/
+ /udistrictpartnership.org/
+URL:https://udistrictpartnership.org/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c176233160a8890@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261003T200000Z
+DTEND:20261004T020000Z
+SUMMARY:OktoBEARfest — Woodland Park Zoo
+LOCATION:5500 Phinney Ave N\, Seattle\, WA 98103
+DESCRIPTION:[auto:westcoast]\nType: food\nGenre: Beer festival\nPrice: Ti
+ cketed\, price not listed\nWhere: Seattle\, WA\nSource: events12.com\n10
+  tastes from 50 Northwest breweries and cideries inside the zoo\, 1-7pm.
+  Zoo admission usually included — confirm.\nhttps://www.zoo.org/
+URL:https://www.zoo.org/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:313f737134db5bb4@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261003T230000Z
+DTEND:20261004T050000Z
+SUMMARY:★ Great Pumpkin Beer Festival — Elysian Capitol Hill Brewery
+LOCATION:1221 E Pike St\, Seattle\, WA 98122
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Beer festi
+ val\nPrice: Ticketed\, price not listed\nWhere: Seattle\, WA\nSource: ev
+ ents12.com\n60+ pumpkin and seasonal beers\, live music\, costume contes
+ t\, 4-10pm. Elysian's signature fall event and a Seattle institution.\nh
+ ttps://www.elysianbrewing.com/
+URL:https://www.elysianbrewing.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5d07266f7b25b0d7@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261004T010000Z
+DTEND:20261003T070000Z
+SUMMARY:★ North Bend Blues Walk (22 bands\, 18 venues) — Downtown Nor
+ th Bend
+LOCATION:North Bend\, WA 98045
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Blues\nPr
+ ice: not listed\nWhere: Seattle\, WA\nSource: events12.com\nWhole-town b
+ lues crawl 6pm-midnight\, ~35 min east of Seattle. Pairs well with a Sno
+ qualmie-area hike that afternoon.\nhttps://www.events12.com/seattle/octo
+ ber/
+URL:https://www.events12.com/seattle/october/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69adc2d0b4c97e52@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261004T030000Z
+DTEND:20261004T060000Z
+SUMMARY:An Evening with Carbon Leaf — Tractor Tavern
+LOCATION:5213 Ballard Ave NW\, Seattle\, WA 98107
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Celtic-Americana\nPrice
+ : $44.65\nWhere: Seattle\, WA\nSource: tractortavern.com\nTwo-set 'eveni
+ ng with' format from a long-running Celtic-tinged Americana band.\nhttps
+ ://tractortavern.com/
+URL:https://tractortavern.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4c3f29e316774f@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261004T030000Z
+DTEND:20261004T060000Z
+SUMMARY:★ Deer Tick — Neumos
+LOCATION:925 E Pike St\, Seattle\, WA 98122
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Alt-count
+ ry/Americana\nPrice: not listed\nWhere: Seattle\, WA\nSource: neumos.com
+ \n⚠ TIME NOT CONFIRMED — assumed from the venue's usual schedule\nRa
+ gged\, reliably great alt-country live band. Time estimated — confirm 
+ on Neumos site.\nhttps://www.neumos.com/events
+URL:https://www.neumos.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d807799500dff682@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261007T023000Z
+DTEND:20261007T053000Z
+SUMMARY:Will Varley w/ guests — The Sunset Tavern
+LOCATION:5433 Ballard Ave NW\, Seattle\, WA 98107
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Folk singer-songwriter\
+ nPrice: not listed\nWhere: Seattle\, WA\nSource: do206.com\nUK folk trou
+ badour\; Sunset is a 200-cap Ballard room a block from the Tractor.\nhtt
+ ps://sunsettavern.com/shows/
+URL:https://sunsettavern.com/shows/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae805b4407307b1@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261026
+SUMMARY:★ Earshot Jazz Festival 2026 (38th annual) — Multiple Seattle
+  venues
+LOCATION:Various\, Seattle\, WA
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Jazz fest
+ ival\nPrice: $5-$95 typical\, Gold Pass available\nWhere: Seattle\, WA\n
+ Source: earshot.org\n⚠ TIME NOT CONFIRMED — assumed from the venue's
+  usual schedule\nOct 7-25\, 30+ concerts at a dozen-plus venues. The sin
+ gle best music anchor for the Seattle stretch — browse the schedule an
+ d pick 2-3.\nhttps://www.earshot.org/festival/
+URL:https://www.earshot.org/festival/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:65fb1f7dfabf3c72@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261012
+SUMMARY:Bellevue Jazz & Blues Series — Meydenbauer Center
+LOCATION:11100 NE 6th St\, Bellevue\, WA 98004
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Jazz/blues\nPrice: Free
+  (headliners ticketed)\nWhere: Seattle\, WA\nSource: events12.com\n⚠ T
+ IME NOT CONFIRMED — assumed from the venue's usual schedule\nFive days
+  of mostly-free jazz and blues across Bellevue\; headline sets are ticke
+ ted.\nhttps://www.events12.com/seattle/october/
+URL:https://www.events12.com/seattle/october/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b08db28702a346e@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261008T030000Z
+DTEND:20261008T060000Z
+SUMMARY:★ Aaron Lee Tasjan w/ Madeleine Kelson — Tractor Tavern
+LOCATION:5213 Ballard Ave NW\, Seattle\, WA 98107
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Alt-count
+ ry/Americana\nPrice: $27.14\nWhere: Seattle\, WA\nSource: tractortavern.
+ com\nOne of the sharpest songwriters in alt-country\, glam-leaning and v
+ ery entertaining live.\nhttps://tractortavern.com/
+URL:https://tractortavern.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:40536a98f4e10113@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261009T030000Z
+DTEND:20261009T060000Z
+SUMMARY:Bob Sumner w/ Laith & The Texas Birds — Tractor Tavern
+LOCATION:5213 Ballard Ave NW\, Seattle\, WA 98107
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Americana/folk\nPrice: 
+ $18.90\nWhere: Seattle\, WA\nSource: tractortavern.com\nCanadian America
+ na songwriter (ex-Sumner Brothers).\nhttps://tractortavern.com/
+URL:https://tractortavern.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:55ed41e9bfd10dcd@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:★ Dungeness Crab & Seafood Festival — Port Angeles City Pier
+LOCATION:315 N Lincoln St\, Port Angeles\, WA 98362
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Crab / sea
+ food festival\nPrice: Free admission\; food ticketed\nWhere: Seattle\, W
+ A\nSource: events12.com\n⚠ TIME NOT CONFIRMED — assumed from the ven
+ ue's usual schedule\n75 vendor booths\, two music stages\, an oyster bar
+  and a grab-a-crab derby on the Olympic Peninsula waterfront. Free to en
+ ter. Pairs naturally with an Olympic NP day. Times estimated.\nhttps://c
+ rabfestival.org/
+URL:https://crabfestival.org/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:af077fabda3a85f2@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:★ Oktoberfest Northwest (21st annual) — Washington State Fair
+  Event Center
+LOCATION:110 9th Ave SW\, Puyallup\, WA 98371
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Oktoberfes
+ t / beer festival\nPrice: Ticketed\, price not listed\nWhere: Seattle\, 
+ WA\nSource: thefair.com\n⚠ TIME NOT CONFIRMED — assumed from the ven
+ ue's usual schedule\nThe region's biggest Oktoberfest: German beer in st
+ eins\, brats\, oompah bands\, keg tapping\, a Stein Dash 5K and dachshun
+ d races (Sun 11am). ~45 min south. Times estimated.\nhttps://www.thefair
+ .com/oktoberfest/
+URL:https://www.thefair.com/oktoberfest/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fd35c1141fd14983@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Washington State Parks Free Day (Discover Pass waived) — All 14
+ 5 Washington State Parks
+LOCATION:Statewide\, WA
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: State parks / free e
+ ntry\nPrice: Free\nWhere: Seattle\, WA\nSource: events12.com\n⚠ TIME N
+ OT CONFIRMED — assumed from the venue's usual schedule\nNo Discover Pa
+ ss needed at any of Washington's 145 state parks. Good excuse for Decept
+ ion Pass\, Saint Edward or Bridle Trails.\nhttps://www.parks.wa.gov/
+URL:https://www.parks.wa.gov/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d80efe4f4fb34728@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Middle Fork Trail Run — Middle Fork Snoqualmie
+LOCATION:North Bend\, WA 98045
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Trail race\nPrice: n
+ ot listed\nWhere: Seattle\, WA\nSource: runguides.com\n⚠ TIME NOT CONF
+ IRMED — assumed from the venue's usual schedule\nBeautiful riverside f
+ orest course. Time estimated.\nhttps://www.runguides.com/seattle/runs
+URL:https://www.runguides.com/seattle/runs
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4635dd3a81fff914@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261010T180000Z
+DTEND:20261010T190000Z
+SUMMARY:★ Donner Lake Witch Paddle — Donner Lake\, Truckee
+LOCATION:Donner Lake\, Truckee\, CA 96161
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: SUP / 
+ Kayak / Costume paddle\nPrice: not listed\nWhere: Tahoe City\, CA\nSourc
+ e: visittruckeetahoe.com\nCostumed paddleboard flotilla on Donner Lake -
+  the most fun hour on the October calendar. Truckee\, ~15 min from Tahoe
+  City.\nhttps://www.visittruckeetahoe.com/things-to-do/events-calendar
+URL:https://www.visittruckeetahoe.com/things-to-do/events-calendar
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:120195d9999128c1@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:★ Made in Tahoe Fall Festival — The Village at Palisades Taho
+ e (Olympic Valley)
+LOCATION:1960 Olympic Valley Rd\, Olympic Valley\, CA 96146
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Local make
+ rs / Food & drink festival\nPrice: Free admission\nWhere: Tahoe City\, C
+ A\nSource: palisadestahoe.com\nFree\, 11am-5pm both days: Tahoe Basin ma
+ kers\, food\, drink and live entertainment. ~10 min from Tahoe City. (Vi
+ sit Truckee Tahoe's calendar lists it as Oct 11-12\; Palisades' own page
+  says Oct 10-11 - trust the resort.)\nhttps://www.palisadestahoe.com/eve
+ nts-and-activities/events-calendar/made-in-tahoe-fall
+URL:https://www.palisadestahoe.com/events-and-activities/events-calendar/
+ made-in-tahoe-fall
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f034c05e73df0060@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:★ Truckee Oktoberfest — Truckee (see listing for site)
+LOCATION:Truckee\, CA 96161
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: food\nGenre: Oktoberfes
+ t / Beer festival\nPrice: not listed\nWhere: Tahoe City\, CA\nSource: vi
+ sittruckeetahoe.com\n⚠ TIME NOT CONFIRMED — assumed from the venue's
+  usual schedule\nTwo-day craft beer festival with live music and family 
+ activities\, squarely in the date window. Exact times and venue were not
+  published - check closer to the date. Truckee\, ~15 min from Tahoe City
+ .\nhttps://www.visittruckeetahoe.com/things-to-do/events-calendar
+URL:https://www.visittruckeetahoe.com/things-to-do/events-calendar
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:33a7b648f6a7873f@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261011T023000Z
+DTEND:20261011T053000Z
+SUMMARY:Rush — Climate Pledge Arena
+LOCATION:334 1st Ave N\, Seattle\, WA 98109
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Progressive rock\nPrice
+ : not listed\nWhere: Seattle\, WA\nSource: songkick.com\n⚠ TIME NOT CO
+ NFIRMED — assumed from the venue's usual schedule\nNot roots - listed 
+ as a notable marquee booking. Two Seattle nights\, Oct 10 and Oct 12. Ti
+ me estimated.\nhttps://climatepledgearena.com/
+URL:https://climatepledgearena.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d78a5c96459a68b3@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261011T023000Z
+DTEND:20261011T053000Z
+SUMMARY:★ Branford Marsalis & Dianne Reeves celebrate John Coltrane (Ea
+ rshot) — Earshot Jazz Festival venue - TBC
+LOCATION:Seattle\, WA
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Jazz\nPri
+ ce: not listed\nWhere: Seattle\, WA\nSource: earshot.org\n⚠ TIME NOT C
+ ONFIRMED — assumed from the venue's usual schedule\nHeadline Earshot n
+ ight. Venue and exact time not listed on the pages I could reach — con
+ firm at earshot.org.\nhttps://www.earshot.org/festival/
+URL:https://www.earshot.org/festival/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba8eac0292ef1e7@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261011T030000Z
+DTEND:20261011T060000Z
+SUMMARY:★ Hiss Golden Messenger: I'm People Tour w/ Sam Amidon (Night O
+ ne) — Tractor Tavern
+LOCATION:5213 Ballard Ave NW\, Seattle\, WA 98107
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Americana
+ /folk\nPrice: SOLD OUT\nWhere: Seattle\, WA\nSource: tractortavern.com\n
+ SOLD OUT as of research date — MC Taylor's band is a top-tier roots ac
+ t\; try Night Two or resale.\nhttps://tractortavern.com/
+URL:https://tractortavern.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45293deb88ba56f6@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261011T030000Z
+DTEND:20261011T060000Z
+SUMMARY:★ Roger McGuinn — The Center for the Arts (Grass Valley)
+LOCATION:314 W Main St\, Grass Valley\, CA 95945
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Folk Rock
+  / Americana\nPrice: $58-68\nWhere: Nevada City\, CA\nSource: thecenterf
+ orthearts.org\nThe Byrds' founder solo\, telling the stories behind the 
+ songs - the through-line from folk revival to country-rock to the Dead's
+  whole world. Grass Valley venue.\nhttps://thecenterforthearts.org/event
+ s/
+URL:https://thecenterforthearts.org/events/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:025b101aa65188a6@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261011T030000Z
+DTEND:20261011T063000Z
+SUMMARY:★ Pink Talking Fish — Crystal Bay Casino (Crown Room)\, Cryst
+ al Bay NV
+LOCATION:14 NV-28\, Crystal Bay\, NV 89402
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Jam / Pin
+ k Floyd-Talking Heads-Phish mashup\nPrice: not listed\nWhere: Tahoe City
+ \, CA\nSource: bandsintown.com\nBack-to-back with Melvin Seals - a genui
+ ne jam weekend at Crystal Bay. Venue in Crystal Bay NV\, ~20 min from Ta
+ hoe City. End time estimated. Deep improv mashup band\; the jam-scene pi
+ ck of the window. ~35 min from Reno\; 21+.\nhttps://www.bandsintown.com/
+ v/10003200-crystal-bay-casino
+URL:https://www.bandsintown.com/v/10003200-crystal-bay-casino
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1b268095e8395ace@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261017T030000Z
+DTEND:20261017T063000Z
+SUMMARY:★ The Floozies — Crystal Bay Casino (Crown Room)\, Crystal Ba
+ y NV
+LOCATION:14 NV-28\, Crystal Bay\, NV 89402
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Funk / El
+ ectro-Jam\nPrice: not listed\nWhere: Tahoe City\, CA\nSource: songkick.c
+ om\nLive-drums-plus-guitar funk duo\, heavy improv. Crystal Bay NV\, ~20
+  min from Tahoe City. End time estimated.\nhttps://www.songkick.com/venu
+ es/58302-crystal-bay-club-casino
+URL:https://www.songkick.com/venues/58302-crystal-bay-club-casino
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:16fe9e37b0d94825@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261017T150000Z
+DTEND:20261017T220000Z
+SUMMARY:★ Heart of Gold Gravel Ride (28 / 47 / 71 mi) — Pioneer Park
+LOCATION:425 Nimrod St\, Nevada City\, CA 95959
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: outdoors\nGenre: Gravel
+  cycling / Race\nPrice: not listed\nWhere: Nevada City\, CA\nSource: hea
+ rtofgoldgravel.com\n6th year\; fundraiser ride on Nevada County's gold-c
+ ountry gravel with a post-ride festival. 8:00am start confirmed\, finish
+  time estimated. Note one county listing says Oct 18 - confirm with orga
+ nizer.\nhttps://www.heartofgoldgravel.com/
+URL:https://www.heartofgoldgravel.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:23e11940edcb5364@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261017T180000Z
+DTEND:20261017T210000Z
+SUMMARY:Big Truck Day — Truckee
+LOCATION:Truckee\, CA 96161
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Family / Community e
+ vent\nPrice: Free\nWhere: Tahoe City\, CA\nSource: visittruckeetahoe.com
+ \nFree family event. Truckee\, ~15 min from Tahoe City.\nhttps://www.vis
+ ittruckeetahoe.com/things-to-do/events-calendar
+URL:https://www.visittruckeetahoe.com/things-to-do/events-calendar
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bf58355f8180e0cf@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261018T000000Z
+DTEND:20261018T013000Z
+SUMMARY:Sierra Speaker Series: Black Powder and Nitroglycerin - Oh My! 
+ — Donner Memorial State Park Visitor Center
+LOCATION:12593 Donner Pass Rd\, Truckee\, CA 96161
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: State park program /
+  History talk\nPrice: Free\nWhere: Tahoe City\, CA\nSource: sierrastatep
+ arks.org\nOn the explosives used to blast the Donner Pass railroad tunne
+ ls - pairs well with hiking the tunnels themselves. Truckee\, ~15 min fr
+ om Tahoe City.\nhttps://www.sierrastateparks.org/events
+URL:https://www.sierrastateparks.org/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:48de0b6ad5aa0321@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261018T030000Z
+DTEND:20261018T063000Z
+SUMMARY:★ Steep Canyon Rangers — Crystal Bay Casino (Crown Room)\, Cr
+ ystal Bay NV
+LOCATION:14 NV-28\, Crystal Bay\, NV 89402
+DESCRIPTION:[auto:westcoast]\n★ Top pick\nType: music\nGenre: Bluegrass
+  / Newgrass\nPrice: not listed\nWhere: Tahoe City\, CA\nSource: bandsint
+ own.com\nGrammy-winning bluegrass band (Steve Martin's longtime collabor
+ ators) in a 500-cap casino ballroom. Notably they kept this date even th
+ ough the Strawberry Music Festival they were headlining that same weeken
+ d got canceled. Crystal Bay NV\, ~20 min from Tahoe City. End time estim
+ ated. Grammy-winning bluegrass band (Steve Martin's longtime collaborato
+ rs) in the Crown Room. Best bluegrass night of the trip. ~35 min from Re
+ no\; 21+.\nhttps://www.bandsintown.com/v/10003200-crystal-bay-casino
+URL:https://www.bandsintown.com/v/10003200-crystal-bay-casino
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0948c38be60189@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261018T160000Z
+DTEND:20261018T230000Z
+SUMMARY:Truckee River Day and Fair — Truckee River watershed (Truckee)
+LOCATION:Truckee\, CA 96161
+DESCRIPTION:[auto:westcoast]\nType: outdoors\nGenre: Volunteer restoratio
+ n / Community fair\nPrice: Free\nWhere: Tahoe City\, CA\nSource: visittr
+ uckeetahoe.com\nHands-in-the-dirt watershed restoration plus a fair - a 
+ good way to meet locals. Truckee\, ~15 min from Tahoe City.\nhttps://www
+ .visittruckeetahoe.com/things-to-do/events-calendar
+URL:https://www.visittruckeetahoe.com/things-to-do/events-calendar
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:35612e03b7f33f8d@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261022T023000Z
+DTEND:20261022T053000Z
+SUMMARY:Cheekface — The Holland Project
+LOCATION:140 Vesta St\, Reno\, NV 89502
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Indie rock\nPrice: not 
+ listed\nWhere: Reno\, NV\nSource: concertfix.com\nAll-ages DIY nonprofit
+  venue - the most characterful small room in Reno.\nhttps://concertfix.c
+ om/concerts/reno-nv
+URL:https://concertfix.com/concerts/reno-nv
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:17259763cd721f5c@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261023T020000Z
+DTEND:20261023T050000Z
+SUMMARY:New Constellations w/ Vox Rea — Cargo Concert Hall
+LOCATION:255 N Virginia St\, Reno\, NV 89501
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Indie folk-rock\nPrice:
+  not listed\nWhere: Reno\, NV\nSource: cargoreno.com\nLast night of the 
+ date window.\nhttps://www.cargoreno.com/upcoming-events
+URL:https://www.cargoreno.com/upcoming-events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:08697864bf3ec65c@digest.local
+DTSTAMP:20260919T215151Z
+DTSTART:20261023T030000Z
+DTEND:20261023T063000Z
+SUMMARY:Taste of Chaos: Hollywood Undead & In This Moment — Grand Theat
+ re\, Grand Sierra Resort
+LOCATION:2500 E 2nd St\, Reno\, NV 89595
+DESCRIPTION:[auto:westcoast]\nType: music\nGenre: Nu-metal / hard rock\nP
+ rice: not listed\nWhere: Reno\, NV\nSource: grandsierraresort.com\nNon-r
+ oots marquee show\; doors 5pm.\nhttps://www.grandsierraresort.com/entert
+ ainment/concerts-and-shows
+URL:https://www.grandsierraresort.com/entertainment/concerts-and-shows
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

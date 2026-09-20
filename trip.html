@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>West Coast Picks</title>
+<meta name="description" content="Live music, outdoors and food in Ketchikan, Seattle, Nevada City, Tahoe City and Reno — Sept 27 to Oct 22, 2026.">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏔</text></svg>">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-top">
+      <div>
+        <h1 id="title">West Coast Picks</h1>
+        <p class="sub" id="subtitle">Live music, outdoors and food across five towns</p>
+      </div>
+      <span class="spacer"></span>
+      <nav class="sitenav" aria-label="Sections">
+        <a href="index.html">Vermont</a>
+        <a href="trip.html" aria-current="page">West Coast</a>
+        <button class="iconbtn" id="themebtn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button>
+      </nav>
+    </div>
+    <div class="stamp" id="stamp"></div>
+    <div class="banner" id="banner" hidden></div>
+  </header>
+
+  <div class="controls">
+    <div class="controls-row">
+      <div class="viewtoggle" role="group" aria-label="View">
+        <button type="button" data-view="list" aria-pressed="true">List</button>
+        <button type="button" data-view="calendar" aria-pressed="false">Calendar</button>
+      </div>
+      <input class="search" id="search" type="search" placeholder="Search act, venue, trail…" aria-label="Search listings">
+      <button class="linkbtn" id="clearbtn" type="button" hidden>Clear filters</button>
+      <span class="resultcount" id="resultcount"></span>
+    </div>
+    <div class="filters" id="filters"></div>
+  </div>
+
+  <main id="view" aria-live="polite"></main>
+
+  <footer class="notes">
+    <div class="legend" id="legend"></div>
+    <h2>About this page</h2>
+    <ul id="notes-list"></ul>
+  </footer>
+
+</div>
+<script>window.DIGEST_CONFIG = { dataUrl: "data/westcoast.json" };</script>
+<script src="assets/app.js"></script>
+</body>
+</html>

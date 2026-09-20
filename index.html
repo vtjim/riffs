@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reels, Riffs &amp; Ridgelines</title>
+<meta name="description" content="Movies, live music and the outdoors around northern Vermont.">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-top">
+      <div>
+        <h1 id="title">Reels, Riffs &amp; Ridgelines</h1>
+        <p class="sub" id="subtitle">Movies, live music and the outdoors around northern Vermont</p>
+      </div>
+      <span class="spacer"></span>
+      <nav class="sitenav" aria-label="Sections">
+        <a href="index.html" aria-current="page">Vermont</a>
+        <a href="trip.html">West Coast</a>
+        <button class="iconbtn" id="themebtn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button>
+      </nav>
+    </div>
+    <div class="stamp" id="stamp"></div>
+    <div class="banner" id="banner" hidden></div>
+  </header>
+
+  <div class="controls">
+    <div class="controls-row">
+      <div class="viewtoggle" role="group" aria-label="View">
+        <button type="button" data-view="list" aria-pressed="true">List</button>
+        <button type="button" data-view="calendar" aria-pressed="false">Calendar</button>
+      </div>
+      <input class="search" id="search" type="search" placeholder="Search artist, venue, town…" aria-label="Search listings">
+      <button class="linkbtn" id="clearbtn" type="button" hidden>Clear filters</button>
+      <span class="resultcount" id="resultcount"></span>
+    </div>
+    <div class="filters" id="filters"></div>
+  </div>
+
+  <main id="view" aria-live="polite"></main>
+
+  <footer class="notes">
+    <div class="legend" id="legend"></div>
+    <h2>About this page</h2>
+    <ul id="notes-list"></ul>
+    <p>Rebuilt automatically after the daily digest email goes out. Reply to that email with
+       <code>SEEN:</code>, <code>SOURCE:</code>, <code>ARTIST:</code> or <code>ADD:</code> to steer what shows up here.</p>
+  </footer>
+
+</div>
+<script>window.DIGEST_CONFIG = { dataUrl: "data/vermont.json" };</script>
+<script src="assets/app.js"></script>
+</body>
+</html>
