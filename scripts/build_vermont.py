@@ -355,6 +355,20 @@ def build_event(category, ev, start, end, allday):
     }
 
 
+def clean_url(value, name):
+    """A calendar link as pasted: trims spaces and quotes, and turns Google's
+    webcal:// form into https://. Never prints the link itself (it is a secret)."""
+    v = (value or "").strip().strip('"\'').strip()
+    if not v:
+        return ""
+    if v.lower().startswith("webcal://"):
+        v = "https://" + v[len("webcal://"):]
+    if not v.lower().startswith("https://"):
+        sys.exit(f"{name} doesn't look like a calendar link (it should start with https:// and end "
+                 f"in /basic.ics). Copy the 'Secret address in iCal format' again and re-set it.")
+    return v
+
+
 # ── main ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -371,9 +385,9 @@ def main():
     prev_counts = (previous.get("meta") or {}).get("counts") or {}
 
     feeds = {
-        "riffs": os.environ.get("MUSIC_ICS_URL", "").strip(),
-        "reels": os.environ.get("MOVIES_ICS_URL", "").strip(),
-        "ridgelines": os.environ.get("RIDGELINES_ICS_URL", "").strip(),
+        "riffs": clean_url(os.environ.get("MUSIC_ICS_URL", ""), "MUSIC_ICS_URL"),
+        "reels": clean_url(os.environ.get("MOVIES_ICS_URL", ""), "MOVIES_ICS_URL"),
+        "ridgelines": clean_url(os.environ.get("RIDGELINES_ICS_URL", ""), "RIDGELINES_ICS_URL"),
     }
     if not PRIVATE_WORDS or not HOME_TOWN:
         sys.exit("Missing PRIVATE_WORDS / HOME_TOWN secrets — refusing to publish unscrubbed text.")
