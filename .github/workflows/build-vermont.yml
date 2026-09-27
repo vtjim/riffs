@@ -29,6 +29,8 @@ jobs:
           python-version: "3.12"
 
       - name: Build data/vermont.json from calendars
+        id: vermont
+        continue-on-error: true
         env:
           MUSIC_ICS_URL: ${{ secrets.MUSIC_ICS_URL }}
           MOVIES_ICS_URL: ${{ secrets.MOVIES_ICS_URL }}
@@ -37,18 +39,29 @@ jobs:
           HOME_TOWN: ${{ secrets.HOME_TOWN }}
         run: python scripts/build_vermont.py
 
+      # The trip page, from the West Coast Trip calendar. Skipped quietly until
+      # WESTCOAST_ICS_URL is set; a failure here doesn't hold back Vermont.
+      - name: Build data/westcoast.json from the trip calendar
+        id: westcoast
+        continue-on-error: true
+        env:
+          WESTCOAST_ICS_URL: ${{ secrets.WESTCOAST_ICS_URL }}
+          PRIVATE_WORDS: ${{ secrets.PRIVATE_WORDS }}
+          HOME_TOWN: ${{ secrets.HOME_TOWN }}
+        run: python scripts/build_westcoast.py
+
       - name: Commit if changed
         id: commit
         run: |
-          if git diff --quiet -- data/vermont.json; then
+          if git diff --quiet -- data/vermont.json data/westcoast.json; then
             echo "No changes to publish."
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/vermont.json
-          git commit -m "vermont data $(TZ=America/New_York date +%F)"
+          git add data/vermont.json data/westcoast.json
+          git commit -m "listings $(TZ=America/New_York date +%F)"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
@@ -58,3 +71,10 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+
+      # Show red in the Actions list when a build failed, after publishing whatever did work.
+      - name: Report build failures
+        if: steps.vermont.outcome == 'failure' || steps.westcoast.outcome == 'failure'
+        run: |
+          echo "vermont: ${{ steps.vermont.outcome }}  westcoast: ${{ steps.westcoast.outcome }}"
+          exit 1
