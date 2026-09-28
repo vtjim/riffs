@@ -306,10 +306,21 @@ def build_event(category, ev, start, end, allday):
         genre = rated.split("·")[-1].strip() if "·" in rated else "Movie"
         m = re.search(r"~(\d+)h(\d+)m", rated)
         if showtime and not allday:
-            t = dt.datetime.strptime(showtime.upper(), "%I:%M %p").time()
-            start = dt.datetime.combine(start.date(), t, TZ)
-            if m:
-                end = start + dt.timedelta(hours=int(m.group(1)), minutes=int(m.group(2)))
+            # The Showtime line is sometimes a full uncertainty note rather
+            # than a clean "h:mm PM" (e.g. "⚠ NOT FULLY CONFIRMED — ..."), so
+            # this reparse — meant only to swap the arrival-buffer start time
+            # for the real showtime — must not take the whole build down when
+            # it can't find a clean time. Fall back to the calendar's own
+            # start/end (already real DTSTART/DTEND) and let `confirmed`
+            # (set below from the same "not confirmed" text) carry the flag.
+            try:
+                t = dt.datetime.strptime(showtime.upper(), "%I:%M %p").time()
+            except ValueError:
+                t = None
+            if t:
+                start = dt.datetime.combine(start.date(), t, TZ)
+                if m:
+                    end = start + dt.timedelta(hours=int(m.group(1)), minutes=int(m.group(2)))
         skip = ("(tentative", "Showtime:", "Arrive by")
         notes_lines = [l for l in body.splitlines() if l.strip() and not l.startswith(skip)]
         price = "Tuesday discount pricing"
