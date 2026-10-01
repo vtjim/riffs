@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-01T00:29:43+00:00",
+  "generated": "2026-10-01T18:35:07+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 51,
+   "music": 54,
    "outdoors": 23,
-   "food": 19
+   "food": 20
   },
   "legs": [
    {
@@ -1814,6 +1814,30 @@
    "spanEnd": "2026-10-10"
   },
   {
+   "id": "f8b567e4b5e9",
+   "title": "Kishi Bashi: Sonderlust 10th Anniversary Tour w/ Geographer",
+   "city": "Seattle, WA",
+   "venue": "The Crocodile (SOLD OUT)",
+   "address": "2505 1st Ave, Seattle, WA 98121",
+   "start": "2026-10-10T18:00:00-07:00",
+   "end": "2026-10-10T20:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "music",
+   "price": "indie/chamber-pop (not a roots-priority genre, but a notable act at a marquee-adjacent venue) · SOLD OUT per venue calendar · Seattle, WA · leg: Seattle (Oct 3-10) · source: calendar.thecrocodile.com · ⚠ END TIME NOT CONFIRMED — 2hr duration assumed",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "seattle"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-10"
+  },
+  {
    "id": "82626a06c362",
    "title": "Branford Marsalis & Dianne Reeves play Coltrane",
    "city": "Seattle, WA",
@@ -1958,6 +1982,30 @@
    ],
    "reachable": true,
    "spanEnd": "2026-10-10"
+  },
+  {
+   "id": "e1c0318ee481",
+   "title": "Nisenan Heritage Day",
+   "city": "Nevada City, CA",
+   "venue": "Miners Foundry Cultural Center",
+   "address": "325 Spring St, Nevada City, CA 95959",
+   "start": "2026-10-11T12:00:00-07:00",
+   "end": "2026-10-11T15:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "food",
+   "genre": "food/culture",
+   "price": "Nisenan tribal heritage community day — traditional food, crafts, likely dance · price not confirmed · Nevada City, CA · leg: Nevada City & Tahoe (Oct 10-18) · source: Miners Foundry events page (minersfoundry.org/all-events), via KVMR listing · ⚠ END TIME NOT CONFIRMED — noon start confirmed, 3-hour duration assumed",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-11"
   },
   {
    "id": "2d5960e2600b",
@@ -2324,6 +2372,30 @@
    "spanEnd": "2026-10-22"
   },
   {
+   "id": "a59f0f2e00da",
+   "title": "Candlelight: Vivaldi's Four Seasons",
+   "city": "Reno, NV",
+   "venue": "Carson City Community Center",
+   "address": "851 E William St, Carson City, NV 89701",
+   "start": "2026-10-22T18:30:00-07:00",
+   "end": "2026-10-22T19:45:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "music",
+   "price": "classical (Candlelight series, Listeso String Quartet) · from $35.50 (Zone C; higher zones sold out) · Carson City, NV (counts for the Reno leg) · leg: Reno (Oct 18-22) · source: vivaldicandlelight.com (Fever) · ⚠ END TIME NOT CONFIRMED — 75 min duration assumed",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-22"
+  },
+  {
    "id": "0409cc006d85",
    "title": "Maire & Chris (harp & guitar duo)",
    "city": "Reno, NV",
@@ -2364,6 +2436,30 @@
    "source": "https://www.cargoreno.com/product/new-constellations",
    "star": false,
    "notes": "Doors 7:00pm, show 8:00pm (confirmed 2026-09-20; earlier hold assumed 7:00pm).",
+   "alsoNear": [],
+   "legs": [
+    "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-22"
+  },
+  {
+   "id": "9703b11fe6e5",
+   "title": "Candlelight: A Haunted Evening of Halloween Classics",
+   "city": "Reno, NV",
+   "venue": "Carson City Community Center",
+   "address": "851 E William St, Carson City, NV 89701",
+   "start": "2026-10-22T20:45:00-07:00",
+   "end": "2026-10-22T22:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "music",
+   "price": "classical (Candlelight series, Listeso String Quartet, Halloween movie-score program) · from $34 · Carson City, NV (counts for the Reno leg) · leg: Reno (Oct 18-22) · source: concerts50.com · ⚠ END TIME NOT CONFIRMED — 75 min duration assumed",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
    "alsoNear": [],
    "legs": [
     "reno"
