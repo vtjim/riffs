@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-02T00:40:32+00:00",
+  "generated": "2026-10-02T18:03:09+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 54,
+   "music": 53,
    "outdoors": 23,
-   "food": 20
+   "food": 24
   },
   "legs": [
    {
@@ -158,30 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "e6a65ed7741e",
-   "title": "The Ukulele Group",
-   "city": "Ketchikan, AK",
-   "venue": "Bayside Hotel Lobby",
-   "address": "Bayside Hotel, Ketchikan, AK 99901",
-   "start": "2026-09-30T15:45:00-08:00",
-   "end": "2026-09-30T16:45:00-08:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "casual community jam · Free",
-   "url": "",
-   "source": "ketchikanarts.org full arts calendar",
-   "star": false,
-   "notes": "City: Ketchikan · Leg: Ketchikan (Sept 27 – Oct 3)\nBring an instrument and play along — informal and participatory.",
-   "alsoNear": [],
-   "legs": [
-    "ketchikan"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-09-30"
-  },
   {
    "id": "ab770c796a09",
    "title": "Mini Concert: Kathryn Krueger & Elisabeth Thomashoff",
@@ -587,6 +563,50 @@
    "spanEnd": "2026-10-03"
   },
   {
+   "id": "59ba5d4ad02e",
+   "title": "Burien Brat Trot & Oktoberfest Block Party",
+   "city": "Burien",
+   "venue": "Burien Town Square",
+   "address": "Burien Town Square, SW 152nd St, Burien, WA",
+   "start": "2026-10-03T10:00:00-07:00",
+   "end": "2026-10-03T15:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "food",
+   "genre": "food/outdoors",
+   "price": "price not confirmed (5K registration fee unlisted; block party free) · Burien, WA · Seattle leg · source: b-townblog.com · https://b-townblog.com/have-you-registered-yet-buriens-17th-annual-brat-trot-returns-saturday-oct-3-to-help-highline-schools-foundation/",
+   "url": "https://b-townblog.com/have-you-registered-yet-buriens-17th-annual-brat-trot-returns-saturday-oct-3-to-help-highline-schools-foundation/",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [],
+   "reachable": false,
+   "spanEnd": "2026-10-03"
+  },
+  {
+   "id": "155d9b17bee8",
+   "title": "Fife Harvest Festival",
+   "city": "Fife",
+   "venue": "Dacca Park",
+   "address": "Dacca Park, Fife, WA",
+   "start": "2026-10-03T10:00:00-07:00",
+   "end": "2026-10-03T16:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "food",
+   "genre": "food",
+   "price": "price not confirmed, historically free · Fife, WA · Seattle leg · source: komonews.com PNW Oct 2026 guide, fifewa.gov (page robots-blocked) · ⚠ TIME NOT CONFIRMED — 10am–4pm assumed (historical pattern)",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [],
+   "reachable": false,
+   "spanEnd": "2026-10-03"
+  },
+  {
    "id": "ee8cb8728777",
    "title": "Fishermen's Festival",
    "city": "Seattle, WA",
@@ -700,6 +720,28 @@
     "seattle"
    ],
    "reachable": true,
+   "spanEnd": "2026-10-03"
+  },
+  {
+   "id": "3b11a7325cdd",
+   "title": "SIP Puyallup",
+   "city": "Puyallup",
+   "venue": "Wine Walk",
+   "address": "109 N Meridian, Puyallup, WA",
+   "start": "2026-10-03T13:00:00-07:00",
+   "end": "2026-10-03T17:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "food",
+   "genre": "food",
+   "price": "$48.15 GA (VIP sold out) · Puyallup, WA · Seattle leg · source: eventeny.com · https://www.eventeny.com/events/sip-puyallup-fall-2026-32113/?series=12169",
+   "url": "https://www.eventeny.com/events/sip-puyallup-fall-2026-32113/?series=12169",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [],
+   "reachable": false,
    "spanEnd": "2026-10-03"
   },
   {
@@ -1785,6 +1827,30 @@
    "alsoNear": [],
    "legs": [
     "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-10"
+  },
+  {
+   "id": "c6b9df054bce",
+   "title": "TurkFest",
+   "city": "Seattle, WA",
+   "venue": "Seattle Center",
+   "address": "305 Harrison St, Seattle, WA",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T18:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "food",
+   "genre": "food/culture",
+   "price": "",
+   "url": "https://turkfest.org/",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "seattle"
    ],
    "reachable": true,
    "spanEnd": "2026-10-10"
