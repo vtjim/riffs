@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-03T00:23:49+00:00",
+  "generated": "2026-10-03T16:45:23+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,7 +104,7 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 53,
+   "music": 52,
    "outdoors": 23,
    "food": 24
   },
@@ -158,30 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "ab770c796a09",
-   "title": "Mini Concert: Kathryn Krueger & Elisabeth Thomashoff",
-   "city": "Ketchikan, AK",
-   "venue": "Star Gallery",
-   "address": "5 Creek Street, Ketchikan, AK 99901",
-   "start": "2026-10-01T11:00:00-08:00",
-   "end": "2026-10-01T11:30:00-08:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "short daytime concert · price not published, likely free (gallery setting)",
-   "url": "",
-   "source": "ketchikanarts.org full arts calendar",
-   "star": false,
-   "notes": "City: Ketchikan · Leg: Ketchikan (Sept 27 – Oct 3)\n⚠ Genre not published — Star Gallery has hosted classical/chamber house concerts previously.",
-   "alsoNear": [],
-   "legs": [
-    "ketchikan"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-01"
-  },
   {
    "id": "74ec76e46c32",
    "title": "Open Mic w/ Evan Porter & Mario Sumner",
