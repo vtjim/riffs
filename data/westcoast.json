@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-03T23:44:05+00:00",
+  "generated": "2026-10-04T17:03:04+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 52,
-   "outdoors": 23,
-   "food": 24
+   "music": 51,
+   "outdoors": 22,
+   "food": 23
   },
   "legs": [
    {
@@ -158,104 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "74ec76e46c32",
-   "title": "Open Mic w/ Evan Porter & Mario Sumner",
-   "city": "Ketchikan, AK",
-   "venue": "Totem Bar",
-   "address": "314 Front St, Ketchikan, AK 99901",
-   "start": "2026-10-01T20:00:00-08:00",
-   "end": "2026-10-01T22:00:00-08:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "open mic · price not published (bar)",
-   "url": "",
-   "source": "ketchikanarts.org full arts calendar",
-   "star": false,
-   "notes": "City: Ketchikan · Leg: Ketchikan (Sept 27 – Oct 3)\nSeparate from the Sunday open mic at Creek Street Cabaret.",
-   "alsoNear": [],
-   "legs": [
-    "ketchikan"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-01"
-  },
-  {
-   "id": "8c5f94cfc180",
-   "title": "Seattle Greek Festival",
-   "city": "Seattle, WA",
-   "venue": "St. Demetrios",
-   "address": "2100 Boyer Ave E, Seattle, WA 98112",
-   "start": "2026-10-02",
-   "end": "2026-10-04",
-   "allDay": true,
-   "timeConfirmed": true,
-   "category": "food",
-   "genre": "Cultural food festival",
-   "price": "Free admission",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "Runs Oct 2–4; you land on the 3rd, so Sat/Sun are your window. Gyros, souvlaki, lamb, a Greek deli and dancers in Montlake.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "endDate": "2026-10-04",
-   "spanEnd": "2026-10-04"
-  },
-  {
-   "id": "ee03c11f0075",
-   "title": "Southeast Alaska Discovery Center",
-   "city": "Ketchikan, AK",
-   "venue": "free, Fri & Sat only",
-   "address": "50 Main St, Ketchikan, AK 99901",
-   "start": "2026-10-02",
-   "end": "2026-10-03",
-   "allDay": true,
-   "timeConfirmed": true,
-   "category": "outdoors",
-   "genre": "Museum / visitor center",
-   "price": "Free from Oct 1",
-   "url": "",
-   "source": "",
-   "star": true,
-   "notes": "Open Friday and Saturday ONLY once October starts, so Oct 2–3 is the window on this leg. Tongass rainforest, Native traditions and Southeast Alaska ecology exhibits.",
-   "alsoNear": [],
-   "legs": [
-    "ketchikan"
-   ],
-   "reachable": true,
-   "endDate": "2026-10-03",
-   "spanEnd": "2026-10-03"
-  },
-  {
-   "id": "dbd83a807b84",
-   "title": "ARTober Art Walk",
-   "city": "Ketchikan, AK",
-   "venue": "Downtown Ketchikan",
-   "address": "Downtown Ketchikan, AK (26 participating businesses; Main Street Gallery, 330 Main St)",
-   "start": "2026-10-02T16:00:00-08:00",
-   "end": "2026-10-02T20:00:00-08:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Arts / live music / tastings",
-   "price": "Free walk (Tongass Historical Museum free; other pricing not stated)",
-   "url": "",
-   "source": "ketchikanarts.org events calendar (confirmed 2026-09-27) and /events/art-walk/participating-businesses.html",
-   "star": true,
-   "notes": "City: Ketchikan · Leg: Ketchikan (Sept 27 – Oct 3)\nLive music at Inn at Creek Street, New York Cafe, The Red Lantern and Star Gallery; tastings at Bawden Street Brewing and Uncharted Alaska Distillery; Main Street Gallery opening (4–8pm).\nCONFIRMED: 4:00–8:00pm (ketchikanarts.org's own event calendar lists these hours directly, replacing the earlier 5-8pm assumption). Arts Council: 907-225-2211.",
-   "alsoNear": [],
-   "legs": [
-    "ketchikan"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-02"
-  },
   {
    "id": "1bd84a5b2b24",
    "title": "Al Di Meola Acoustic Ensemble",
@@ -998,7 +900,7 @@
    "url": "",
    "source": "Neumos calendar",
    "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\n⚠ TIME NOT CONFIRMED — 8:00pm assumed.",
+   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nDoors CONFIRMED 7:00pm via Neumos' own event page (2026-10-04 recheck). ⚠ Exact show time and price still not published — 8:00pm show kept as the working assumption.",
    "alsoNear": [],
    "legs": [
     "seattle"
@@ -1214,6 +1116,30 @@
    "source": "tractortavern.com (Tractor Presents, hosted at sister venue)",
    "star": false,
    "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\n[CORRECTED 2026-09-27]: this show is at The Sunset Tavern, not Tractor Tavern itself — Tractor Tavern that night has Gannon Fremin & CCREV instead (separate hold).",
+   "alsoNear": [],
+   "legs": [
+    "seattle"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-08"
+  },
+  {
+   "id": "90f9ddc56ced",
+   "title": "Carín León",
+   "city": "Seattle, WA",
+   "venue": "Climate Pledge Arena",
+   "address": "Climate Pledge Arena, 334 1st Ave N, Seattle, WA 98109",
+   "start": "2026-10-08T20:00:00-07:00",
+   "end": "2026-10-08T23:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "Music",
+   "price": "regional Mexican / Latin (not a roots-priority genre, but a genuinely notable marquee-venue show — \"De Sonora Para El Mundo\" tour) · price not confirmed",
+   "url": "",
+   "source": "climatepledgearena.com, axs.com",
+   "star": false,
+   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nFound 2026-10-04. ⚠ Doors time not confirmed.",
    "alsoNear": [],
    "legs": [
     "seattle"
@@ -1880,30 +1806,6 @@
    "spanEnd": "2026-10-10"
   },
   {
-   "id": "82626a06c362",
-   "title": "Branford Marsalis & Dianne Reeves play Coltrane",
-   "city": "Seattle, WA",
-   "venue": "Earshot Jazz",
-   "address": "Seattle, WA (venue TBC)",
-   "start": "2026-10-10T19:30:00-07:00",
-   "end": "2026-10-10T22:30:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Jazz",
-   "price": "price not listed",
-   "url": "",
-   "source": "",
-   "star": true,
-   "notes": "⚠ Venue still TBC on the Earshot listing. Collides with Hiss Golden Messenger the same night, and with the Tahoe shows if you travel that day.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-10"
-  },
-  {
    "id": "c1f60542ee48",
    "title": "Rush",
    "city": "Seattle, WA",
@@ -1912,14 +1814,38 @@
    "start": "2026-10-10T19:30:00-07:00",
    "end": "2026-10-10T22:30:00-07:00",
    "allDay": false,
-   "timeConfirmed": false,
+   "timeConfirmed": true,
    "category": "music",
    "genre": "Progressive rock",
    "price": "price not listed",
    "url": "",
    "source": "",
    "star": false,
-   "notes": "⚠ Doors time not confirmed.",
+   "notes": "Doors 6:30pm / show 7:30pm — CONFIRMED via Climate Pledge Arena's own event page (2026-10-04 recheck).",
+   "alsoNear": [],
+   "legs": [
+    "seattle"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-10"
+  },
+  {
+   "id": "7d68cdea62d7",
+   "title": "Branford Marsalis & Dianne Reeves play Coltrane",
+   "city": "Seattle, WA",
+   "venue": "Earshot Jazz",
+   "address": "Town Hall Seattle, Great Hall, 1119 8th Ave, Seattle, WA 98101",
+   "start": "2026-10-10T20:00:00-07:00",
+   "end": "2026-10-10T22:30:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "music",
+   "genre": "Jazz",
+   "price": "$49.50–$130 incl. fees (discounts for seniors/members/military/students)",
+   "url": "",
+   "source": "earshot.org",
+   "star": true,
+   "notes": "VENUE CONFIRMED: Town Hall Seattle, Great Hall (was TBC) — presented by Earshot Jazz in partnership with Town Hall. Doors 7:00pm / show 8:00pm.\nCollides with Hiss Golden Messenger (Tractor Tavern) the same night, and with the Tahoe arrival-night shows if you travel that day.",
    "alsoNear": [],
    "legs": [
     "seattle"
