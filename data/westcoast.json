@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-06T01:43:31+00:00",
+  "generated": "2026-10-06T18:37:58+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 46,
-   "outdoors": 16,
-   "food": 10
+   "music": 45,
+   "outdoors": 20,
+   "food": 9
   },
   "legs": [
    {
@@ -158,102 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "38884ee67559",
-   "title": "Northwest Chocolate Festival (Sunday)",
-   "city": "Seattle, WA",
-   "venue": "Seattle Center",
-   "address": "Seattle Center Exhibition Hall & Fisher Pavilion, Seattle, WA",
-   "start": "2026-10-04T09:00:00-07:00",
-   "end": "2026-10-04T17:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "food",
-   "genre": "Food",
-   "price": "chocolate festival · Sunday timed entry $35–$60 before fees",
-   "url": "https://nwchocolatefest.strangertickets.com/",
-   "source": "nwchocolatefest ticketing (runs Oct 3–4; Sunday hours 9am–5pm)",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nTickets: https://nwchocolatefest.strangertickets.com/\nNote: one aggregator (events12) says Bellevue's Meydenbauer Center, which conflicts with the ticketing pages.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-04"
-  },
-  {
-   "id": "21a910c65c05",
-   "title": "CroatiaFest",
-   "city": "Seattle, WA",
-   "venue": "Seattle Center Armory",
-   "address": "Seattle Center Armory, Seattle, WA",
-   "start": "2026-10-04T12:00:00-07:00",
-   "end": "2026-10-04T18:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Food",
-   "price": "cultural food and music festival · Free",
-   "url": "",
-   "source": "Seattle Center / turkfest.org roundup",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-04"
-  },
-  {
-   "id": "10eb1e7f81f8",
-   "title": "Carbon Leaf (2 shows)",
-   "city": "Seattle, WA",
-   "venue": "The Triple Door",
-   "address": "The Triple Door, 216 Union St, Seattle, WA 98101",
-   "start": "2026-10-04T17:00:00-07:00",
-   "end": "2026-10-04T19:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "Celtic-tinged folk rock / Americana · $45 GA / $50 premium",
-   "url": "https://tickets.thetripledoor.net/eventperformances.asp?evt=1897",
-   "source": "The Triple Door",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nTickets: https://tickets.thetripledoor.net/eventperformances.asp?evt=1897\nNote: two shows, 5:00pm and 8:00pm, all ages, dinner seating. Separate from the Oct 3 Tractor Tavern show.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-04"
-  },
-  {
-   "id": "9d261e2eabd6",
-   "title": "J. Roddy Walston",
-   "city": "Seattle, WA",
-   "venue": "Tractor Tavern",
-   "address": "Tractor Tavern, 5213 Ballard Ave NW, Seattle, WA 98107",
-   "start": "2026-10-04T20:00:00-07:00",
-   "end": "2026-10-04T23:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "roots rock / southern rock · $31.26",
-   "url": "https://www.ticketweb.com/event/j-roddy-walston-w-guests-tractor-tickets/14834913",
-   "source": "Tractor Tavern / TicketWeb",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nTickets: https://www.ticketweb.com/event/j-roddy-walston-w-guests-tractor-tickets/14834913",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-04"
-  },
   {
    "id": "4f5b33615bb4",
    "title": "Radio Ranch w/ Evan Wallace, Brooklyn Del and the Revelators",
@@ -698,6 +602,30 @@
    "source": "The Triple Door",
    "star": false,
    "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nTickets: https://tickets.thetripledoor.net/eventperformances.asp?evt=851",
+   "alsoNear": [],
+   "legs": [
+    "seattle"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-09"
+  },
+  {
+   "id": "9fa3c6f4f0c4",
+   "title": "Aespa",
+   "city": "Seattle, WA",
+   "venue": "Climate Pledge Arena",
+   "address": "Climate Pledge Arena, 334 1st Ave N, Seattle, WA 98109",
+   "start": "2026-10-09T20:00:00-07:00",
+   "end": "2026-10-09T22:30:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "",
+   "price": "",
+   "url": "https://www.tickpick.com/buy-aespa-tickets-climate-pledge-arena-10-9-26-8pm/7912978/",
+   "source": "https://www.tickpick.com/buy-aespa-tickets-climate-pledge-arena-10-9-26-8pm/7912978/ | ⚠ TIME NOT CONFIRMED — 8:00pm show time assumed, end time estimated",
+   "star": false,
+   "notes": "music | genuinely notable marquee-arena show (K-pop, not a priority genre, not starred) | price not confirmed | Seattle leg | Source: https://www.tickpick.com/buy-aespa-tickets-climate-pledge-arena-10-9-26-8pm/7912978/ | ⚠ TIME NOT CONFIRMED — 8:00pm show time assumed, end time estimated",
    "alsoNear": [],
    "legs": [
     "seattle"
@@ -1152,6 +1080,30 @@
    "spanEnd": "2026-10-10"
   },
   {
+   "id": "4da7cca482eb",
+   "title": "Taste of Truckee",
+   "city": "Tahoe City, CA",
+   "venue": "restaurant month (anytime this leg)",
+   "address": "Various restaurants, Truckee, CA",
+   "start": "2026-10-10T12:00:00-07:00",
+   "end": "2026-10-10T13:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "outdoors",
+   "genre": "",
+   "price": "",
+   "url": "https://www.visittruckeetahoe.com/taste-of-truckee",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-10"
+  },
+  {
    "id": "46fa3e95c879",
    "title": "Mike Dawes (solo guitar)",
    "city": "Seattle, WA",
@@ -1394,6 +1346,30 @@
    "spanEnd": "2026-10-11"
   },
   {
+   "id": "f9704c6b4584",
+   "title": "Truckee Certified Farmers Market",
+   "city": "Tahoe City, CA",
+   "venue": "Truckee River Regional Park",
+   "address": "Truckee River Regional Park, 10500 Brockway Rd, Truckee, CA 96161",
+   "start": "2026-10-13T08:00:00-07:00",
+   "end": "2026-10-13T13:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "outdoors",
+   "genre": "",
+   "price": "",
+   "url": "https://chamber.truckee.com/events/index/2026-10-01",
+   "source": "https://chamber.truckee.com/events/index/2026-10-01",
+   "star": false,
+   "notes": "food | weekly Tuesday farmers market | free entry | Tahoe leg | Source: https://chamber.truckee.com/events/index/2026-10-01",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-13"
+  },
+  {
    "id": "3c6ef442ed01",
    "title": "Pumpkins Palooza",
    "city": "Nevada City, CA",
@@ -1416,6 +1392,30 @@
    ],
    "reachable": true,
    "spanEnd": "2026-10-15"
+  },
+  {
+   "id": "1c6b69e1ac56",
+   "title": "Achieve Tahoe Vintner Dinner",
+   "city": "Tahoe City, CA",
+   "venue": "The Timbers at Old Greenwood",
+   "address": "The Timbers at Old Greenwood, 12977 Fairway Dr, Truckee, CA 96161",
+   "start": "2026-10-16T17:00:00-07:00",
+   "end": "2026-10-16T21:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "outdoors",
+   "genre": "",
+   "price": "",
+   "url": "https://chamber.truckee.com/events/details/achieve-tahoe-s-vintner-dinner-84243",
+   "source": "https://chamber.truckee.com/events/details/achieve-tahoe-s-vintner-dinner-84243",
+   "star": false,
+   "notes": "food | fundraiser wine-pairing dinner | $250/person, $490/couple, $1900/table of 8 | Tahoe leg | Source: https://chamber.truckee.com/events/details/achieve-tahoe-s-vintner-dinner-84243",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-16"
   },
   {
    "id": "aecc8396e839",
@@ -1614,6 +1614,30 @@
    "spanEnd": "2026-10-18"
   },
   {
+   "id": "d344c2625fe3",
+   "title": "Riverside Farmers Market",
+   "city": "Reno, NV",
+   "venue": "Idlewild Park",
+   "address": "Idlewild Park, 1000 Cowan Dr, Reno, NV 89509",
+   "start": "2026-10-18T09:00:00-07:00",
+   "end": "2026-10-18T13:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "outdoors",
+   "genre": "",
+   "price": "",
+   "url": "https://www.reno.gov",
+   "source": "https://www.reno.gov",
+   "star": false,
+   "notes": "food | year-round weekly Sunday market, local vendors only | free entry | Reno leg | Source: https://www.reno.gov",
+   "alsoNear": [],
+   "legs": [
+    "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-18"
+  },
+  {
    "id": "648008fe371e",
    "title": "Truckee River Day and Fair",
    "city": "Tahoe City, CA",
@@ -1708,6 +1732,30 @@
    ],
    "reachable": true,
    "spanEnd": "2026-10-20"
+  },
+  {
+   "id": "7cfb1ac02dff",
+   "title": "Reno Ukulele Festival",
+   "city": "Reno, NV",
+   "venue": "Nugget Casino Resort",
+   "address": "Nugget Casino Resort, 1100 Nugget Ave, Sparks, NV 89431",
+   "start": "2026-10-21T10:00:00-07:00",
+   "end": "2026-10-22T22:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "",
+   "price": "",
+   "url": "https://renoukulelefestival.com/",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-21"
   },
   {
    "id": "09fdf7bf32dc",
