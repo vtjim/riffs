@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-10-06T18:37:57+00:00",
+  "generated": "2026-10-07T00:35:29+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -27,7 +27,7 @@
   ],
   "showDriveTime": true,
   "counts": {
-   "riffs": 110,
+   "riffs": 111,
    "reels": 15,
    "ridgelines": 21
   },
@@ -3104,6 +3104,27 @@
    "driveMin": 25,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bluegrass+Nights+%28Joe+Agnello+co-host%29&dates=20270127T230000Z%2F20270128T020000Z&location=Foam+Brewers%2C+112+Lake+St%2C+Burlington%2C+VT+05401"
+  },
+  {
+   "id": "787e1ee671f5",
+   "title": "Bluegrass Nights (Joe Agnello co-host)",
+   "category": "riffs",
+   "city": "Burlington",
+   "venue": "Foam Brewers",
+   "address": "Foam Brewers, 112 Lake St, Burlington, VT 05401",
+   "start": "2027-02-03T18:00:00-05:00",
+   "end": "2027-02-03T21:00:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Bluegrass jam",
+   "price": "Free",
+   "url": "",
+   "source": "foambrewers.com/events",
+   "star": true,
+   "notes": "★ FOLLOWED ARTIST — Joe Agnello co-hosts this weekly bluegrass jam\nGenre: Bluegrass jam\nPrice: Free\n~25 min from the Burlington area\nWeekly Wednesday jam, confirmed running Sept-Oct 2026\nSource: foambrewers.com/events",
+   "driveMin": 25,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bluegrass+Nights+%28Joe+Agnello+co-host%29&dates=20270203T230000Z%2F20270204T020000Z&location=Foam+Brewers%2C+112+Lake+St%2C+Burlington%2C+VT+05401"
   }
  ]
 }
