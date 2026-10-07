@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-10-07T00:35:29+00:00",
+  "generated": "2026-10-07T19:05:09+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -27,9 +27,9 @@
   ],
   "showDriveTime": true,
   "counts": {
-   "riffs": 111,
+   "riffs": 112,
    "reels": 15,
-   "ridgelines": 21
+   "ridgelines": 23
   },
   "notes": [
    "Movie showtimes cover the Majestic 10's Tuesday discount night and are refreshed every Monday.",
@@ -39,27 +39,6 @@
   ]
  },
  "events": [
-  {
-   "id": "6f65eee8d942",
-   "title": "Katie Pruitt",
-   "category": "riffs",
-   "city": "South Burlington",
-   "venue": "Higher Ground (Showcase Lounge)",
-   "address": "Higher Ground, 1214 Williston Rd, South Burlington, VT 05403",
-   "start": "2026-10-05T19:00:00-04:00",
-   "end": "2026-10-05T22:00:00-04:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "genre": "Americana/queer-country, good taste match",
-   "price": "$25-30 (confirmed)",
-   "url": "",
-   "source": "highergroundmusic.com/calendar (time corrected from 8PM-assumed to confirmed 7PM)",
-   "star": false,
-   "notes": "Genre: Americana/queer-country, good taste match\nPrice: $25-30 (confirmed)\n~20 min from the Burlington area\nSource: highergroundmusic.com/calendar (time corrected from 8PM-assumed to confirmed 7PM)",
-   "driveMin": 20,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Katie+Pruitt&dates=20261005T230000Z%2F20261006T020000Z&location=Higher+Ground%2C+1214+Williston+Rd%2C+South+Burlington%2C+VT+05403"
-  },
   {
    "id": "437cbeec9acf",
    "title": "House & Garden Tour",
@@ -712,6 +691,48 @@
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Benjamin+Tod+%26+Lost+Dog+Street+Band&dates=20261009T000000Z%2F20261009T030000Z&location=Higher+Ground%2C+1214+Williston+Rd%2C+South+Burlington%2C+VT+05403"
   },
   {
+   "id": "7c0c9e44b19e",
+   "title": "Disco Biscuits",
+   "category": "riffs",
+   "city": "Rutland",
+   "venue": "Paramount Theatre",
+   "address": "Paramount Theatre, 30 Center Street, Rutland, VT 05701",
+   "start": "2026-10-08T20:00:00-04:00",
+   "end": "2026-10-08T22:00:00-04:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Jamtronica/funk-jam — legendary Philadelphia jam band, wide-filter priority 5",
+   "price": "$49 + tax/fees",
+   "url": "",
+   "source": "Vermont Public events calendar, JamBase",
+   "star": false,
+   "notes": "Genre: Jamtronica/funk-jam — legendary Philadelphia jam band, wide-filter priority 5\nPrice: $49 + tax/fees\n~80 min from the Burlington area (edge/marginal)\nSource: Vermont Public events calendar, JamBase",
+   "driveMin": 80,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Disco+Biscuits&dates=20261009T000000Z%2F20261009T020000Z&location=Paramount+Theatre%2C+30+Center+Street%2C+Rutland%2C+VT+05701"
+  },
+  {
+   "id": "22efcdaa5471",
+   "title": "Stowe Foliage Arts Festival",
+   "category": "ridgelines",
+   "city": "Stowe",
+   "venue": "Mayo Farm Event Fields",
+   "address": "Mayo Farm Event Fields, 120 Weeks Hill Road, Stowe, VT 05672",
+   "start": "2026-10-09",
+   "end": "2026-10-11",
+   "allDay": true,
+   "timeConfirmed": false,
+   "genre": "Category: Craft fair/festival — arts & crafts festival celebrating fall color",
+   "price": "",
+   "url": "",
+   "source": "gostowe.com/events/signature-events/stowe-foliage-arts-festival",
+   "star": false,
+   "notes": "Category: Craft fair/festival — arts & crafts festival celebrating fall color\n⚠ TIME AND PRICE NOT CONFIRMED — check gostowe.com\n~50 min from the Burlington area\nSource: gostowe.com/events/signature-events/stowe-foliage-arts-festival",
+   "driveMin": 50,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stowe+Foliage+Arts+Festival&dates=20261009%2F20261012&location=Mayo+Farm+Event+Fields%2C+120+Weeks+Hill+Road%2C+Stowe%2C+VT+05672"
+  },
+  {
    "id": "32549668a7a6",
    "title": "Dead Men Strumming",
    "category": "riffs",
@@ -752,6 +773,27 @@
    "driveMin": 30,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Abby+Sherman+and+The+Way+North+w%2F+Blackwolf&dates=20261009T230000Z%2F20261010T020000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
+  },
+  {
+   "id": "e1f2230a9013",
+   "title": "White Denim (w/ Arc Iris)",
+   "category": "riffs",
+   "city": "South Burlington",
+   "venue": "Higher Ground",
+   "address": "Higher Ground, 1214 Williston Rd, South Burlington, VT 05403",
+   "start": "2026-10-09T19:00:00-04:00",
+   "end": "2026-10-09T22:00:00-04:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Genre-blending psych/garage/prog rock w/ country-rock flavor — included via Higher Ground leniency rule (close genre call resolved toward inclusion, not plainly outside the taste list)",
+   "price": "$25-30",
+   "url": "",
+   "source": "highergroundmusic.com/calendar",
+   "star": false,
+   "notes": "Genre: Genre-blending psych/garage/prog rock w/ country-rock flavor — included via Higher Ground leniency rule (close genre call resolved toward inclusion, not plainly outside the taste list)\nPrice: $25-30\nDoors 7:00 PM\n~25 min from the Burlington area\nSource: highergroundmusic.com/calendar",
+   "driveMin": 25,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=White+Denim+%28w%2F+Arc+Iris%29&dates=20261009T230000Z%2F20261010T020000Z&location=Higher+Ground%2C+1214+Williston+Rd%2C+South+Burlington%2C+VT+05403"
   },
   {
    "id": "8b450090bf57",
@@ -1067,6 +1109,27 @@
    "driveMin": 20,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rik+Palieri&dates=20261011T170000Z%2F20261011T190000Z&location=Shelburne+Vineyard%2C+6308+Shelburne+Rd%2C+Shelburne%2C+VT+05482"
+  },
+  {
+   "id": "b3607364721b",
+   "title": "Open Mic Poetry",
+   "category": "ridgelines",
+   "city": "Rutland",
+   "venue": "Phoenix Books Rutland",
+   "address": "Phoenix Books, Rutland, VT",
+   "start": "2026-10-11T14:00:00-04:00",
+   "end": "2026-10-11T15:30:00-04:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Category: Bookstore/community event",
+   "price": "Free",
+   "url": "",
+   "source": "phoenixbooks.biz/upcoming-events",
+   "star": false,
+   "notes": "Category: Bookstore/community event\nPrice: Free\n~80 min from the Burlington area (edge/marginal)\n⚠ end time estimated\nSource: phoenixbooks.biz/upcoming-events",
+   "driveMin": 80,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Open+Mic+Poetry&dates=20261011T180000Z%2F20261011T193000Z&location=Phoenix+Books%2C+Rutland%2C+VT"
   },
   {
    "id": "895ff102c0d4",
