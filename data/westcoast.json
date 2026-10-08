@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-08T00:55:24+00:00",
+  "generated": "2026-10-08T19:01:16+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 54,
-   "outdoors": 21,
-   "food": 12
+   "music": 52,
+   "outdoors": 22,
+   "food": 14
   },
   "legs": [
    {
@@ -158,102 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "939db18a0242",
-   "title": "Will Varley w/ guests",
-   "city": "Seattle, WA",
-   "venue": "The Sunset Tavern",
-   "address": "5433 Ballard Ave NW, Seattle, WA 98107",
-   "start": "2026-10-06T19:30:00-07:00",
-   "end": "2026-10-06T22:30:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "music",
-   "genre": "Folk singer-songwriter",
-   "price": "price not listed",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "⚠ Doors time not confirmed.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-06"
-  },
-  {
-   "id": "e815e451c19a",
-   "title": "Yellowjackets",
-   "city": "Seattle, WA",
-   "venue": "Dimitriou's Jazz Alley",
-   "address": "Dimitriou's Jazz Alley, 2033 6th Ave, Seattle, WA 98121",
-   "start": "2026-10-06T19:30:00-07:00",
-   "end": "2026-10-06T22:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "jazz-fusion · $41 incl. $12.50 handling fee",
-   "url": "https://www.jazzalley.com/www-home/artist.jsp?shownum=8820",
-   "source": "Jazz Alley",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nTickets: https://www.jazzalley.com/www-home/artist.jsp?shownum=8820\nNote: also Wed Oct 7 at 7:30pm. Doors 6:00pm.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-06"
-  },
-  {
-   "id": "498f2cb34f84",
-   "title": "Country Dance Night w/ The Strix",
-   "city": "Seattle, WA",
-   "venue": "Conor Byrne Pub",
-   "address": "Conor Byrne Pub, 5140 Ballard Ave NW, Seattle, WA 98107",
-   "start": "2026-10-06T20:00:00-07:00",
-   "end": "2026-10-06T23:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "country / old-time dance night · Free",
-   "url": "",
-   "source": "Do206",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nNote: end time assumed.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-06"
-  },
-  {
-   "id": "d2f02e10398e",
-   "title": "Devon Gilfillian w/ Snacktime",
-   "city": "Seattle, WA",
-   "venue": "The Crocodile",
-   "address": "The Crocodile, 2200 2nd Ave, Seattle, WA 98121",
-   "start": "2026-10-06T20:00:00-07:00",
-   "end": "2026-10-06T23:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "soul / blues-rock · from $37.35",
-   "url": "https://www.ticketweb.com/event/devon-gilfillian-time-the-crocodile-tickets/14911113",
-   "source": "TicketWeb",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nTickets: https://www.ticketweb.com/event/devon-gilfillian-time-the-crocodile-tickets/14911113\nNote: doors 7:00pm. The Crocodile's own calendar tags every event Sold Out (unreliable); TicketWeb does not show sold out.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-06"
-  },
   {
    "id": "77e67d500b9b",
    "title": "Bellevue Jazz & Blues Series",
@@ -348,6 +252,30 @@
    ],
    "reachable": true,
    "spanEnd": "2026-10-07"
+  },
+  {
+   "id": "7fa1d5ac1928",
+   "title": "Queen Anne Farmers Market (season finale)",
+   "city": "Seattle, WA",
+   "venue": "7 Crockett St",
+   "address": "7 Crockett St, Seattle, WA 98109",
+   "start": "2026-10-08T15:00:00-07:00",
+   "end": "2026-10-08T19:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "food",
+   "genre": "Food (farmers market)",
+   "price": "Free entry · Seattle, WA",
+   "url": "",
+   "source": "eatlocalfirst.org",
+   "star": false,
+   "notes": "Last market of the 2026 season — today only.",
+   "alsoNear": [],
+   "legs": [
+    "seattle"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-08"
   },
   {
    "id": "ed660f5533b0",
@@ -832,12 +760,12 @@
    "allDay": true,
    "timeConfirmed": true,
    "category": "outdoors",
-   "genre": "Fall color",
-   "price": "Free",
+   "genre": "",
+   "price": "",
    "url": "",
    "source": "",
    "star": true,
-   "notes": "Standing option — peak is typically the 2nd-3rd week of October, dead centre of this leg. Page Meadows is walkable from Tahoe City; Hope Valley and Taylor Creek are drives.",
+   "notes": "Standing option — peak is typically the 2nd-3rd week of October, dead centre of this leg. Page Meadows is walkable from Tahoe City; Hope Valley and Taylor Creek are drives.\nForecast update (Oct 7-8): morethanjustparks.com's numerical foliage model (updated Oct 7) now estimates peak Oct 13-16 for the Tahoe-bordering high country (Desolation Wilderness, Granite Chief, Eldorado NF) — squarely inside this leg. visitlaketahoe.com's seasonal guide broadly brackets Oct 10-24. Still model/estimate guidance, not an eyewitness field report — worth a day-of check once there.",
    "alsoNear": [],
    "legs": [
     "norcal"
@@ -951,12 +879,12 @@
    "allDay": true,
    "timeConfirmed": true,
    "category": "outdoors",
-   "genre": "Fall color / walking",
-   "price": "Free",
+   "genre": "",
+   "price": "",
    "url": "",
    "source": "",
    "star": true,
-   "notes": "Standing option — historic downtown and the Victorian neighborhoods, peaking mid-to-late October.",
+   "notes": "Standing option — historic downtown and the Victorian neighborhoods, peaking mid-to-late October.\nNote: the firmer Oct 13-16 forecast now available (see linked Fall aspen color event) is modeled for the higher-elevation Tahoe-bordering forests, not specifically Nevada City/Grass Valley's lower-elevation town color, which typically peaks a bit later — still unconfirmed for this specific area.",
    "alsoNear": [],
    "legs": [
     "norcal"
@@ -1101,6 +1029,30 @@
    "alsoNear": [],
    "legs": [],
    "reachable": false,
+   "spanEnd": "2026-10-10"
+  },
+  {
+   "id": "80358187d8b3",
+   "title": "University District Farmers Market",
+   "city": "Seattle, WA",
+   "venue": "University Way NE & NE 50th St",
+   "address": "University Way NE & NE 50th St, Seattle, WA 98105",
+   "start": "2026-10-10T09:00:00-07:00",
+   "end": "2026-10-10T14:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "food",
+   "genre": "Food (farmers market)",
+   "price": "Free entry ($3 suggested parking donation) · Seattle, WA",
+   "url": "",
+   "source": "seattlefarmersmarkets.org/udfm ; visitseattle.org",
+   "star": false,
+   "notes": "Year-round Saturday market.\n⚠ TIME NOT CONFIRMED — 9am–2pm assumed (typical hours; site doesn't publish exact hours)",
+   "alsoNear": [],
+   "legs": [
+    "seattle"
+   ],
+   "reachable": true,
    "spanEnd": "2026-10-10"
   },
   {
@@ -1315,6 +1267,30 @@
    "alsoNear": [],
    "legs": [],
    "reachable": false,
+   "spanEnd": "2026-10-10"
+  },
+  {
+   "id": "8b354df5525b",
+   "title": "Justin Farren",
+   "city": "Nevada City, CA",
+   "venue": "Nevada Theatre",
+   "address": "401 Broad St, Nevada City, CA 95959",
+   "start": "2026-10-10T19:30:00-07:00",
+   "end": "2026-10-10T21:30:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "",
+   "price": "",
+   "url": "",
+   "source": "nevadatheatre.com",
+   "star": true,
+   "notes": "Presented by Paul Emery; bill includes Paul Emery and Peter Wilson opening. Same night as Roger McGuinn at the Center for the Arts — two good music options in town Oct 10.\n⚠ TIME NOT CONFIRMED — 7:30pm start assumed from venue listing; end time estimated",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
    "spanEnd": "2026-10-10"
   },
   {
@@ -1754,6 +1730,30 @@
    "spanEnd": "2026-10-17"
   },
   {
+   "id": "610d8a8b358d",
+   "title": "Historic Walks of Nevada City",
+   "city": "Nevada City, CA",
+   "venue": "Miners Foundry",
+   "address": "325 Spring St, Nevada City, CA 95959",
+   "start": "2026-10-17T10:00:00-07:00",
+   "end": "2026-10-17T11:15:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "outdoors",
+   "genre": "Outdoors (guided walking/history tour)",
+   "price": "Price not confirmed · Nevada City, CA",
+   "url": "",
+   "source": "Nevada City Chamber calendar (ncgold.com / nevadacitychamber.com)",
+   "star": false,
+   "notes": "Guided historic walk through downtown Nevada City, starting at Miners Foundry Cultural Center.",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-17"
+  },
+  {
    "id": "8dd435655ff1",
    "title": "Big Truck Day",
    "city": "Tahoe City, CA",
@@ -1940,6 +1940,30 @@
    "source": "",
    "star": false,
    "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-18"
+  },
+  {
+   "id": "d5630b4f5174",
+   "title": "Tony Yun (piano)",
+   "city": "Nevada City, CA",
+   "venue": "Seventh-day Adventist Church, Grass Valley",
+   "address": "Seventh-day Adventist Church, Grass Valley, CA 95945",
+   "start": "2026-10-18T14:00:00-07:00",
+   "end": "2026-10-18T16:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "music",
+   "genre": "Music (solo classical piano, presented by InConcert Sierra)",
+   "price": "$5 · Grass Valley, CA",
+   "url": "",
+   "source": "Nevada City Chamber calendar",
+   "star": false,
+   "notes": "Not a genre-priority pick (classical, not jam/bluegrass/Americana) — included as a minor notable.",
    "alsoNear": [],
    "legs": [
     "norcal"
