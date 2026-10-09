@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-09T01:09:44+00:00",
+  "generated": "2026-10-09T18:31:42+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,7 +104,7 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 52,
+   "music": 49,
    "outdoors": 22,
    "food": 14
   },
@@ -158,77 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "77e67d500b9b",
-   "title": "Bellevue Jazz & Blues Series",
-   "city": "Bellevue",
-   "venue": "Meydenbauer Center",
-   "address": "11100 NE 6th St, Bellevue, WA 98004",
-   "start": "2026-10-07",
-   "end": "2026-10-11",
-   "allDay": true,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Jazz / blues",
-   "price": "Free, headliners ticketed",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "Runs Oct 7–11, overlapping the back half of your Seattle week.",
-   "alsoNear": [],
-   "legs": [],
-   "reachable": false,
-   "endDate": "2026-10-11",
-   "spanEnd": "2026-10-11"
-  },
-  {
-   "id": "07ba73b6fc14",
-   "title": "Stanley Jordan (solo)",
-   "city": "Seattle, WA",
-   "venue": "The Triple Door",
-   "address": "The Triple Door, 216 Union St, Seattle, WA 98101",
-   "start": "2026-10-07T19:30:00-07:00",
-   "end": "2026-10-07T22:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "music",
-   "genre": "Music",
-   "price": "jazz guitar / fusion · price not confirmed",
-   "url": "https://tickets.thetripledoor.net/",
-   "source": "Do206 (Triple Door listing)",
-   "star": false,
-   "notes": "City: Seattle · Leg: Seattle (Oct 3 – 10)\nTickets: https://tickets.thetripledoor.net/",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-07"
-  },
-  {
-   "id": "b1f39ef594aa",
-   "title": "Aaron Lee Tasjan w/ Madeleine Kelson",
-   "city": "Seattle, WA",
-   "venue": "Tractor Tavern",
-   "address": "5213 Ballard Ave NW, Seattle, WA 98107",
-   "start": "2026-10-07T20:00:00-07:00",
-   "end": "2026-10-07T23:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Alt-country / Americana",
-   "price": "$27.14",
-   "url": "",
-   "source": "",
-   "star": true,
-   "notes": "Strong midweek pick at the Tractor.",
-   "alsoNear": [],
-   "legs": [
-    "seattle"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-07"
-  },
   {
    "id": "f86ec2c2459b",
    "title": "Acid Mothers Temple",
