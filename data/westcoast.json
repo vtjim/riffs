@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-13T02:31:43+00:00",
+  "generated": "2026-10-13T19:33:36+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 19,
-   "outdoors": 11,
-   "food": 8
+   "music": 17,
+   "outdoors": 9,
+   "food": 6
   },
   "legs": [
    {
@@ -158,152 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "1278d8a1773f",
-   "title": "Clear Kayak Tours",
-   "city": "Tahoe City, CA",
-   "venue": "Tahoe Vista",
-   "address": "Tahoe Vista, CA 96148",
-   "start": "2026-10-11",
-   "end": "2026-10-17",
-   "allDay": true,
-   "timeConfirmed": false,
-   "category": "outdoors",
-   "genre": "outdoors",
-   "price": "price not confirmed · Tahoe Vista, CA · Nevada City & Tahoe leg · standing/anytime-this-leg clear-bottom kayak tours, reachable through end of leg (Oct 18) · ⚠ TIME NOT CONFIRMED — check operator for booking windows",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "endDate": "2026-10-17",
-   "spanEnd": "2026-10-17"
-  },
-  {
-   "id": "e9709cd0f2de",
-   "title": "Tahoe Literary Festival — full festival day ($55)",
-   "city": "Tahoe City, CA",
-   "venue": "Tahoe City",
-   "address": "Tahoe City, CA",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "allDay": true,
-   "timeConfirmed": false,
-   "category": "music",
-   "genre": "music/culture",
-   "price": "$55 · Tahoe City, CA · Tahoe leg · author panels (Katy Hays, Jill Shalvis) plus a free singer-songwriter showcase finale · source: North Tahoe Chamber 2026 events list (tahoe.com) · ⚠ TIME NOT CONFIRMED",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-11"
-  },
-  {
-   "id": "b25c8b302222",
-   "title": "Taste of Truckee",
-   "city": "Tahoe City, CA",
-   "venue": "restaurant month",
-   "address": "Truckee, CA 96161",
-   "start": "2026-10-11",
-   "end": "2026-10-17",
-   "allDay": true,
-   "timeConfirmed": true,
-   "category": "food",
-   "genre": "food",
-   "price": "price varies by restaurant · Truckee, CA · Nevada City & Tahoe leg · standing/anytime-this-leg restaurant-month promotion, reachable through end of leg (Oct 18)",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "endDate": "2026-10-17",
-   "spanEnd": "2026-10-17"
-  },
-  {
-   "id": "c81eec6a3861",
-   "title": "Champion Mine Trail Race",
-   "city": "Nevada City, CA",
-   "venue": "Nevada City",
-   "address": "325 Spring St, Nevada City, CA 95959",
-   "start": "2026-10-11T07:30:00-07:00",
-   "end": "2026-10-11T12:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "outdoors",
-   "genre": "outdoors",
-   "price": "price not published, online registration now closed · Nevada City, CA · Nevada City & Tahoe leg · trail race hosted by Bear Yuba Land Trust, start/finish at Miners Foundry · Staggered starts: Half Marathon 7:30am, 10K 7:45am, 5K 8:00am (all confirmed) · source: BikeSignup/RunSignUp",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-11"
-  },
-  {
-   "id": "e1c0318ee481",
-   "title": "Nisenan Heritage Day",
-   "city": "Nevada City, CA",
-   "venue": "Miners Foundry Cultural Center",
-   "address": "325 Spring St, Nevada City, CA 95959",
-   "start": "2026-10-11T12:00:00-07:00",
-   "end": "2026-10-11T15:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "food",
-   "genre": "food/culture",
-   "price": "Nisenan tribal heritage community day — traditional food, crafts, likely dance · price not confirmed · Nevada City, CA · leg: Nevada City & Tahoe (Oct 10-18) · source: Miners Foundry events page (minersfoundry.org/all-events), via KVMR listing · ⚠ END TIME NOT CONFIRMED — noon start confirmed, 3-hour duration assumed",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-11"
-  },
-  {
-   "id": "2d5960e2600b",
-   "title": "Bluegrass Sundays",
-   "city": "Tahoe City, CA",
-   "venue": "Alibi Ale Works Truckee",
-   "address": "Alibi Ale Works Truckee Public House, 10069 Bridge St, Truckee, CA 96161",
-   "start": "2026-10-11T18:00:00-07:00",
-   "end": "2026-10-11T20:30:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "weekly bluegrass jam, live bluegrass + beer · no cover listed",
-   "url": "https://alibialeworks.com/events/tags/alibi-truckee/?pno=2",
-   "source": "https://alibialeworks.com/events/tags/alibi-truckee/?pno=2",
-   "star": true,
-   "notes": "City: Truckee (counts as Tahoe City) · Leg: Nevada City & Tahoe (Oct 10 – 18)\nNote: repeats Sun Oct 18, 6:00–8:30pm. A casual jam, not a headliner booking. Alibi's calendar was checked only through Oct 19.",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-11"
-  },
   {
    "id": "f9704c6b4584",
    "title": "Truckee Certified Farmers Market",
