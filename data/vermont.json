@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-10-14T00:15:07+00:00",
+  "generated": "2026-10-14T17:37:24+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -29,7 +29,7 @@
   "counts": {
    "riffs": 100,
    "reels": 14,
-   "ridgelines": 16
+   "ridgelines": 15
   },
   "notes": [
    "Movie showtimes cover the Majestic 10's Tuesday discount night and are refreshed every Monday.",
@@ -39,48 +39,6 @@
   ]
  },
  "events": [
-  {
-   "id": "5a583c4d77fa",
-   "title": "The North Face Race to the Summit",
-   "category": "ridgelines",
-   "city": "",
-   "venue": "",
-   "address": "Stratton Mountain Resort, Manchester area",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "allDay": true,
-   "timeConfirmed": true,
-   "genre": "",
-   "price": "",
-   "url": "",
-   "source": "digest snapshot",
-   "star": false,
-   "notes": "Source: digest snapshot",
-   "driveMin": null,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+North+Face+Race+to+the+Summit&dates=20261012%2F20261013&location=Stratton+Mountain+Resort%2C+Manchester+area"
-  },
-  {
-   "id": "7b5411dd9b59",
-   "title": "The Last Waltz 50th Anniversary (Chest Fever)",
-   "category": "riffs",
-   "city": "Shelburne",
-   "venue": "Shelburne Vineyard",
-   "address": "Shelburne Vineyard, 6308 Shelburne Rd, Shelburne, VT 05482",
-   "start": "2026-10-12T19:00:00-04:00",
-   "end": "2026-10-12T22:00:00-04:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "genre": "Americana / roots. The Band tribute by Chest Fever, 50th anniversary of The Last Waltz.",
-   "price": "not listed",
-   "url": "",
-   "source": "shelburnevineyard.com/events-list",
-   "star": false,
-   "notes": "BOOK AHEAD — Genre: Americana / roots. The Band tribute by Chest Fever, 50th anniversary of The Last Waltz.\nPrice: not listed\n~20 min from the Burlington area\n7:00–10:00 PM\nSource: shelburnevineyard.com/events-list",
-   "driveMin": 20,
-   "bookAhead": true,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Last+Waltz+50th+Anniversary+%28Chest+Fever%29&dates=20261012T230000Z%2F20261013T020000Z&location=Shelburne+Vineyard%2C+6308+Shelburne+Rd%2C+Shelburne%2C+VT+05482"
-  },
   {
    "id": "a1d577047665",
    "title": "John Lackard Blues Duo",
@@ -731,6 +689,27 @@
    "driveMin": 20,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Danny+%26+The+Parts&dates=20261016T220000Z%2F20261017T000000Z&location=Shelburne+Vineyard%2C+6308+Shelburne+Rd%2C+Shelburne%2C+VT+05482"
+  },
+  {
+   "id": "2bff8480091a",
+   "title": "The Duncan MacCleod Band",
+   "category": "riffs",
+   "city": "South Hero",
+   "venue": "Two Heroes Brewery",
+   "address": "Two Heroes Brewery, South Hero, VT",
+   "start": "2026-10-16T18:00:00-04:00",
+   "end": "2026-10-16T20:00:00-04:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "not independently confirmed — assumed acoustic/Americana based on Two Heroes' typical booking pattern (same assumption used for Eric Bailey and Jeff and Gina at this venue)",
+   "price": "not listed, assumed free",
+   "url": "",
+   "source": "twoheroesbrewery.com/upcoming-events",
+   "star": false,
+   "notes": "Genre: not independently confirmed — assumed acoustic/Americana based on Two Heroes' typical booking pattern (same assumption used for Eric Bailey and Jeff and Gina at this venue)\nPrice: not listed, assumed free\n~35 min from the Burlington area\nSource: twoheroesbrewery.com/upcoming-events",
+   "driveMin": 35,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Duncan+MacCleod+Band&dates=20261016T220000Z%2F20261017T000000Z&location=Two+Heroes+Brewery%2C+South+Hero%2C+VT"
   },
   {
    "id": "92ec8f236440",
