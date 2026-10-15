@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-14T23:52:17+00:00",
+  "generated": "2026-10-15T17:22:48+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -106,7 +106,7 @@
   "counts": {
    "music": 17,
    "outdoors": 9,
-   "food": 6
+   "food": 7
   },
   "legs": [
    {
@@ -158,30 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "f9704c6b4584",
-   "title": "Truckee Certified Farmers Market",
-   "city": "Tahoe City, CA",
-   "venue": "Truckee River Regional Park",
-   "address": "Truckee River Regional Park, 10500 Brockway Rd, Truckee, CA 96161",
-   "start": "2026-10-13T08:00:00-07:00",
-   "end": "2026-10-13T13:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "outdoors",
-   "genre": "",
-   "price": "",
-   "url": "https://chamber.truckee.com/events/index/2026-10-01",
-   "source": "https://chamber.truckee.com/events/index/2026-10-01",
-   "star": false,
-   "notes": "food | weekly Tuesday farmers market | free entry | Tahoe leg | Source: https://chamber.truckee.com/events/index/2026-10-01",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-13"
-  },
   {
    "id": "d077d82a68b2",
    "title": "Tahoe City Farmers Market",
@@ -311,16 +287,16 @@
    "venue": "425 Nimrod St",
    "address": "425 Nimrod St, Nevada City, CA 95959",
    "start": "2026-10-17T08:00:00-07:00",
-   "end": "2026-10-17T15:00:00-07:00",
+   "end": "2026-10-17T16:00:00-07:00",
    "allDay": false,
    "timeConfirmed": true,
    "category": "outdoors",
-   "genre": "Gravel cycling / race",
-   "price": "price not listed",
+   "genre": "",
+   "price": "",
    "url": "",
    "source": "",
    "star": true,
-   "notes": "Starts at Pioneer Park, Nevada City. Same day as Steep Canyon Rangers that evening.",
+   "notes": "",
    "alsoNear": [],
    "legs": [
     "norcal"
@@ -507,14 +483,14 @@
    "start": "2026-10-18",
    "end": "2026-10-18",
    "allDay": true,
-   "timeConfirmed": false,
+   "timeConfirmed": true,
    "category": "outdoors",
-   "genre": "Lantern festival",
-   "price": "price not confirmed",
+   "genre": "outdoors",
+   "price": "",
    "url": "",
    "source": "",
    "star": false,
-   "notes": "Running Oct 2 – Nov 29, 2026 — open throughout this leg. Daily hours not published; check dragonlightsreno.org.",
+   "notes": "",
    "alsoNear": [],
    "legs": [
     "reno"
@@ -535,6 +511,30 @@
    "category": "food",
    "genre": "food/outdoors",
    "price": "various events & prices · Virginia City, NV · Reno leg · Halloween-themed saloon crawl (21+), ghost tours, haunted hayrides, pumpkin picking, runs all of October · source: travelnevada.com, visitvirginiacitynv.com · ⚠ TIME NOT CONFIRMED — no day-specific Oct 18-22 schedule published, standing/anytime listing",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-18"
+  },
+  {
+   "id": "854f5bff05f6",
+   "title": "V&T Railroad Pumpkin Patch Train",
+   "city": "Reno, NV",
+   "venue": "Virginia City",
+   "address": "F Street Depot, Virginia City, NV 89440",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "allDay": true,
+   "timeConfirmed": false,
+   "category": "outdoors",
+   "genre": "outdoors",
+   "price": "train ticket includes a pumpkin; regular fare adult $19 / child (5-12) $10 / all-day pass $50 · Virginia City, NV · Reno leg · Scenic high-desert train ride on the historic V&T Railroad, part of Virginia City's Hauntober lineup · source: visitvirginiacitynv.com/hauntober, virginiatruckee.com/theme-trains-events/pumpkin-patch-trains · ⚠ TIME NOT CONFIRMED — 10:30am assumed (regular V&T train schedule runs 10:30am-4:00pm)",
    "url": "",
    "source": "",
    "star": false,
@@ -823,6 +823,30 @@
    "category": "food",
    "genre": "food",
    "price": "price not confirmed · Sparks, NV · Reno leg · whiskey pairing dinner · CONFIRMED venue-direct via Nugget Casino Resort's own events calendar (cnty.com/nugget), Oct 22 · source: nuggetcasinoresort.com / ediblerenotahoe.com",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-22"
+  },
+  {
+   "id": "282b15e3bc25",
+   "title": "Gold Hill Hotel Haunted Ghost Tour",
+   "city": "Reno, NV",
+   "venue": "Virginia City",
+   "address": "1540 S Main St, Virginia City, NV 89440",
+   "start": "2026-10-22T19:00:00-07:00",
+   "end": "2026-10-22T20:30:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "food",
+   "genre": "food",
+   "price": "$35/person tour-only or $60/person dinner+tour (plus gratuity) · Virginia City, NV · Reno leg · Haunted history tour by Northern Nevada Ghost Hunters at the historic Gold Hill Hotel, part of Hauntober · source: virginia-city-tourism-commi.locable.com/events/625179 · reservations 775-847-0111 · ⚠ TIME NOT CONFIRMED — 7:00pm tour assumed from recurring pattern (dinner seating often ~5:30pm), not explicitly reconfirmed for this date",
    "url": "",
    "source": "",
    "star": false,
