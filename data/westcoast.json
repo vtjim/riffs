@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-15T23:38:46+00:00",
+  "generated": "2026-10-16T16:58:59+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 17,
-   "outdoors": 9,
-   "food": 7
+   "music": 18,
+   "outdoors": 10,
+   "food": 8
   },
   "legs": [
    {
@@ -207,6 +207,30 @@
    "spanEnd": "2026-10-15"
   },
   {
+   "id": "ed04cf479da8",
+   "title": "Epic Friday's Mountain Bike Group Ride",
+   "city": "Nevada City, CA",
+   "venue": "18848 CA-20",
+   "address": "18848 CA-20, Nevada City, CA 95959",
+   "start": "2026-10-16T10:00:00-07:00",
+   "end": "2026-10-16T12:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "outdoors",
+   "genre": "outdoors",
+   "price": "free · weekly group mountain bike ride · Nevada City & Tahoe leg (Oct 10-18) · ⚠ TIME NOT CONFIRMED — 2hr duration assumed",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-16"
+  },
+  {
    "id": "1c6b69e1ac56",
    "title": "Achieve Tahoe Vintner Dinner",
    "city": "Tahoe City, CA",
@@ -250,6 +274,30 @@
    "alsoNear": [
     "Reno, NV"
    ],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-16"
+  },
+  {
+   "id": "dbdc57fccfd8",
+   "title": "Sqwerv",
+   "city": "Nevada City, CA",
+   "venue": "Crazy Horse Saloon & Grill",
+   "address": "230 Commercial St, Nevada City, CA 95959",
+   "start": "2026-10-16T21:30:00-07:00",
+   "end": "2026-10-17T00:30:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "music",
+   "genre": "",
+   "price": "",
+   "url": "",
+   "source": "",
+   "star": true,
+   "notes": "",
+   "alsoNear": [],
    "legs": [
     "norcal"
    ],
@@ -425,6 +473,30 @@
    "spanEnd": "2026-10-17"
   },
   {
+   "id": "ab05011ba7b1",
+   "title": "An Evening in Paris",
+   "city": "Nevada City, CA",
+   "venue": "Center for the Arts Gala",
+   "address": "314 W Main St, Grass Valley, CA 95945",
+   "start": "2026-10-17T17:00:00-07:00",
+   "end": "2026-10-17T21:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "food",
+   "genre": "food",
+   "price": "annual benefit gala/banquet · $25–$5,000 (tiered) · Nevada City & Tahoe leg (Oct 10-18) · source: thecenterforthearts.org · ⚠ TIME NOT CONFIRMED — end time assumed (4hr)",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-17"
+  },
+  {
    "id": "d1239c42f7f2",
    "title": "Sierra Speaker Series",
    "city": "Tahoe City, CA",
@@ -523,30 +595,6 @@
    "spanEnd": "2026-10-18"
   },
   {
-   "id": "854f5bff05f6",
-   "title": "V&T Railroad Pumpkin Patch Train",
-   "city": "Reno, NV",
-   "venue": "Virginia City",
-   "address": "F Street Depot, Virginia City, NV 89440",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "allDay": true,
-   "timeConfirmed": false,
-   "category": "outdoors",
-   "genre": "outdoors",
-   "price": "train ticket includes a pumpkin; regular fare adult $19 / child (5-12) $10 / all-day pass $50 · Virginia City, NV · Reno leg · Scenic high-desert train ride on the historic V&T Railroad, part of Virginia City's Hauntober lineup · source: visitvirginiacitynv.com/hauntober, virginiatruckee.com/theme-trains-events/pumpkin-patch-trains · ⚠ TIME NOT CONFIRMED — 10:30am assumed (regular V&T train schedule runs 10:30am-4:00pm)",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-18"
-  },
-  {
    "id": "d344c2625fe3",
    "title": "Riverside Farmers Market",
    "city": "Reno, NV",
@@ -590,6 +638,30 @@
    "alsoNear": [],
    "legs": [
     "norcal"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-18"
+  },
+  {
+   "id": "5fae2ede7425",
+   "title": "V&T Railroad Pumpkin Patch Train",
+   "city": "Reno, NV",
+   "venue": "Virginia City",
+   "address": "F Street Depot, Virginia City, NV 89440",
+   "start": "2026-10-18T11:20:00-07:00",
+   "end": "2026-10-18T16:30:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "outdoors",
+   "genre": "outdoors",
+   "price": "train ticket includes a pumpkin; regular fare adult $19 / child (5-12) $10 / all-day pass $50 · Virginia City, NV · Reno leg · Scenic high-desert train ride on the historic V&T Railroad, part of Virginia City's Hauntober lineup · TIMES NOW CONFIRMED — departures 11:20am, 1:20pm, 3:00pm from Virginia City Depot, 166 F Street · source: virginiatruckee.vhost5.sierraweb.com (V&T Railroad official page)",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "reno"
    ],
    "reachable": true,
    "spanEnd": "2026-10-18"
@@ -776,9 +848,9 @@
    "genre": "Music",
    "price": "hard rock, marquee (not roots) · price not confirmed",
    "url": "",
-   "source": "grandsierraresort.com; livenation.com",
+   "source": "grandsierraresort.com; livenation.com; detour.songkick.com",
    "star": false,
-   "notes": "City: Reno · Leg: Reno (Oct 18 – 22)\nTime now CONFIRMED 2026-09-29: doors 5:00pm, show 6:00pm — matches on both Grand Sierra Resort's own page and Live Nation's official listing (prior JamBase 6pm/8pm conflict resolved in favor of the venue + Live Nation).",
+   "notes": "City: Reno · Leg: Reno (Oct 18 – 22)\nTime CONFIRMED: doors 5:00pm, show 6:00pm. Full lineup now confirmed via Songkick: In This Moment, Hollywood Undead, I See Stars, Vana, and Melrose Avenue.",
    "alsoNear": [],
    "legs": [
     "reno"
