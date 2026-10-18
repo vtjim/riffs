@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-17T23:01:17+00:00",
+  "generated": "2026-10-18T16:09:05+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,8 +104,8 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 19,
-   "outdoors": 10,
+   "music": 21,
+   "outdoors": 8,
    "food": 6
   },
   "legs": [
@@ -158,54 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "ed04cf479da8",
-   "title": "Epic Friday's Mountain Bike Group Ride",
-   "city": "Nevada City, CA",
-   "venue": "18848 CA-20",
-   "address": "18848 CA-20, Nevada City, CA 95959",
-   "start": "2026-10-16T10:00:00-07:00",
-   "end": "2026-10-16T12:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "outdoors",
-   "genre": "outdoors",
-   "price": "free · weekly group mountain bike ride · Nevada City & Tahoe leg (Oct 10-18) · ⚠ TIME NOT CONFIRMED — 2hr duration assumed",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-16"
-  },
-  {
-   "id": "1c6b69e1ac56",
-   "title": "Achieve Tahoe Vintner Dinner",
-   "city": "Tahoe City, CA",
-   "venue": "The Timbers at Old Greenwood",
-   "address": "The Timbers at Old Greenwood, 12977 Fairway Dr, Truckee, CA 96161",
-   "start": "2026-10-16T17:00:00-07:00",
-   "end": "2026-10-16T21:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "outdoors",
-   "genre": "",
-   "price": "",
-   "url": "https://chamber.truckee.com/events/details/achieve-tahoe-s-vintner-dinner-84243",
-   "source": "https://chamber.truckee.com/events/details/achieve-tahoe-s-vintner-dinner-84243",
-   "star": false,
-   "notes": "food | fundraiser wine-pairing dinner | $250/person, $490/couple, $1900/table of 8 | Tahoe leg | Source: https://chamber.truckee.com/events/details/achieve-tahoe-s-vintner-dinner-84243",
-   "alsoNear": [],
-   "legs": [
-    "norcal"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-16"
-  },
   {
    "id": "aecc8396e839",
    "title": "The Floozies w/ Kaipora",
@@ -547,6 +499,30 @@
    "spanEnd": "2026-10-18"
   },
   {
+   "id": "66826ade800d",
+   "title": "Harvest Train Festival",
+   "city": "Reno, NV",
+   "venue": "Nevada State Railroad Museum",
+   "address": "2180 S Carson St, Carson City, NV 89701",
+   "start": "2026-10-18T09:00:00-07:00",
+   "end": "2026-10-18T16:30:00-07:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "category": "music",
+   "genre": "food/outdoors",
+   "price": "$25 adult / $15 ages 4-17 / free under 4, single wristband covers steam train rides, handcar rides (11am-1pm), pumpkin patch, food trucks and games · Carson City, NV · Reno leg (arrival day) · 2-day event Oct 17-18, only Oct 18 falls in-leg · source: carsonrailroadmuseum.org",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-18"
+  },
+  {
    "id": "d344c2625fe3",
    "title": "Riverside Farmers Market",
    "city": "Reno, NV",
@@ -574,15 +550,15 @@
    "id": "648008fe371e",
    "title": "Truckee River Day and Fair",
    "city": "Tahoe City, CA",
-   "venue": "Truckee River watershed",
-   "address": "Truckee River watershed, Truckee, CA 96161",
+   "venue": "Truckee River Regional Park",
+   "address": "Truckee River Regional Park, 10500 Brockway Rd, Truckee, CA 96161",
    "start": "2026-10-18T09:00:00-07:00",
    "end": "2026-10-18T16:00:00-07:00",
    "allDay": false,
    "timeConfirmed": true,
    "category": "outdoors",
-   "genre": "Volunteer restoration / community event",
-   "price": "Free",
+   "genre": "outdoors",
+   "price": "",
    "url": "",
    "source": "",
    "star": false,
@@ -710,6 +686,30 @@
    "alsoNear": [],
    "legs": [
     "reno"
+   ],
+   "reachable": true,
+   "spanEnd": "2026-10-18"
+  },
+  {
+   "id": "0e8a50fce769",
+   "title": "Truckee Bluegrass Jam",
+   "city": "Tahoe City, CA",
+   "venue": "Alibi Ale Works / Truckee Public House",
+   "address": "10069 Bridge St, Truckee, CA 96161",
+   "start": "2026-10-18T18:00:00-07:00",
+   "end": "2026-10-18T20:00:00-07:00",
+   "allDay": false,
+   "timeConfirmed": false,
+   "category": "music",
+   "genre": "music",
+   "price": "",
+   "url": "",
+   "source": "",
+   "star": false,
+   "notes": "",
+   "alsoNear": [],
+   "legs": [
+    "norcal"
    ],
    "reachable": true,
    "spanEnd": "2026-10-18"
