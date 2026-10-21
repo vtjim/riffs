@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-10-20T23:46:50+00:00",
+  "generated": "2026-10-21T17:40:39+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -29,7 +29,7 @@
   "counts": {
    "riffs": 108,
    "reels": 14,
-   "ridgelines": 25
+   "ridgelines": 24
   },
   "notes": [
    "Movie showtimes cover the Majestic 10's Tuesday discount night and are refreshed every Monday.",
@@ -39,27 +39,6 @@
   ]
  },
  "events": [
-  {
-   "id": "629e9a51c475",
-   "title": "Flood Resilience at Quinlan Covered Bridge",
-   "category": "ridgelines",
-   "city": "Charlotte",
-   "venue": "Charlotte",
-   "address": "Quinlan Covered Bridge, Charlotte, VT 05445",
-   "start": "2026-10-19T17:30:00-04:00",
-   "end": "2026-10-19T18:30:00-04:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "genre": "Category: Nature/community talk-walk — led by water-resources engineer Jessica Louisos, discussing flood-resilience options at the bridge",
-   "price": "not confirmed, likely free",
-   "url": "",
-   "source": "charlottenewsvt.org Oct 2026 calendar",
-   "star": false,
-   "notes": "Category: Nature/community talk-walk — led by water-resources engineer Jessica Louisos, discussing flood-resilience options at the bridge\nPrice: not confirmed, likely free\n~15 min from the Burlington area\nSource: charlottenewsvt.org Oct 2026 calendar",
-   "driveMin": 15,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flood+Resilience+at+Quinlan+Covered+Bridge&dates=20261019T213000Z%2F20261019T223000Z&location=Quinlan+Covered+Bridge%2C+Charlotte%2C+VT+05445"
-  },
   {
    "id": "08b61dd66f19",
    "title": "Mini Clean Up Crew",
@@ -736,22 +715,22 @@
    "id": "6c03d6d69528",
    "title": "Blue Northern",
    "category": "riffs",
-   "city": "Waitsfield",
-   "venue": "Lawson's Finest Taproom",
-   "address": "Lawson's Finest Liquids, 155 Carroll Rd, Waitsfield, VT 05673",
+   "city": "Stowe",
+   "venue": "The Alchemist",
+   "address": "The Alchemist, 100 Cottage Club Rd, Stowe, VT 05672",
    "start": "2026-10-23T16:00:00-04:00",
-   "end": "2026-10-23T19:00:00-04:00",
+   "end": "2026-10-23T18:00:00-04:00",
    "allDay": false,
    "timeConfirmed": true,
    "genre": "not independently confirmed — likely blues/roots covers (low confidence)",
    "price": "Free",
    "url": "",
-   "source": "lawsonsfinest.com/events",
+   "source": "alchemistbeer.com/events/",
    "star": false,
-   "notes": "Genre: not independently confirmed — likely blues/roots covers (low confidence)\nPrice: Free\n~40 min from the Burlington area\nSource: lawsonsfinest.com/events",
-   "driveMin": 40,
+   "notes": "Genre: not independently confirmed — likely blues/roots covers (low confidence)\nPrice: Free\n~50 min from the Burlington area\nCORRECTED 2026-10-21: previously held at Lawson's Finest Taproom, Waitsfield — direct fetch of lawsonsfinest.com/events/ today shows no Blue Northern listing for 10/23, while alchemistbeer.com/events/ directly lists Blue Northern at The Alchemist, Stowe, Fri 10/23, 4:00-6:00 PM.\nSource: alchemistbeer.com/events/",
+   "driveMin": 50,
    "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Blue+Northern&dates=20261023T200000Z%2F20261023T230000Z&location=Lawson%27s+Finest+Liquids%2C+155+Carroll+Rd%2C+Waitsfield%2C+VT+05673"
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Blue+Northern&dates=20261023T200000Z%2F20261023T220000Z&location=The+Alchemist%2C+100+Cottage+Club+Rd%2C+Stowe%2C+VT+05672"
   },
   {
    "id": "513850c03809",
