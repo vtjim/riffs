@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-21T23:58:12+00:00",
+  "generated": "2026-10-22T17:39:07+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,7 +104,7 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 10,
+   "music": 9,
    "outdoors": 0,
    "food": 2
   },
@@ -158,30 +158,6 @@
   }
  },
  "events": [
-  {
-   "id": "26c84b392157",
-   "title": "Water for Elephants",
-   "city": "Reno, NV",
-   "venue": "Pioneer Center, Reno",
-   "address": "Pioneer Center for the Performing Arts, 100 S Virginia St, Reno, NV 89501",
-   "start": "2026-10-20T19:00:00-07:00",
-   "end": "2026-10-20T21:30:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "touring Broadway musical (not a priority-genre pick — flagged as a notable marquee-venue booking filling the thin Reno leg) · price not published",
-   "url": "",
-   "source": "waterforelephantsthemusical.com/tour, pioneercenter.com, downtownreno.org, hellotickets.com",
-   "star": false,
-   "notes": "City: Reno · Leg: Reno (Oct 18 – 22)\n7:00pm start now firmly confirmed across multiple sources (previously marked not-confirmed). End time and price still not published — box office 775-686-6600.",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-20"
-  },
   {
    "id": "7cfb1ac02dff",
    "title": "Reno Ukulele Festival",
