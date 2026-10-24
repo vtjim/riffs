@@ -2,7 +2,7 @@
  "meta": {
   "title": "West Coast Picks",
   "subtitle": "Ketchikan · Seattle · Nevada City & Tahoe · Reno",
-  "generated": "2026-10-23T23:49:42+00:00",
+  "generated": "2026-10-24T16:16:05+00:00",
   "tripStart": "2026-09-27",
   "tripEnd": "2026-10-22",
   "searchStart": "2026-09-19",
@@ -104,9 +104,9 @@
   },
   "showDriveTime": false,
   "counts": {
-   "music": 6,
+   "music": 0,
    "outdoors": 0,
-   "food": 2
+   "food": 0
   },
   "legs": [
    {
@@ -157,198 +157,5 @@
    "defaultOn": true
   }
  },
- "events": [
-  {
-   "id": "d20fb10026fe",
-   "title": "Taste of Chaos: Hollywood Undead & In This Moment",
-   "city": "Reno, NV",
-   "venue": "Grand Sierra",
-   "address": "2500 E 2nd St, Reno, NV 89595",
-   "start": "2026-10-22T18:00:00-07:00",
-   "end": "2026-10-22T23:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "music",
-   "genre": "Music",
-   "price": "hard rock, marquee (not roots) · price not confirmed",
-   "url": "",
-   "source": "grandsierraresort.com; livenation.com; detour.songkick.com",
-   "star": false,
-   "notes": "City: Reno · Leg: Reno (Oct 18 – 22)\nTime CONFIRMED: doors 5:00pm, show 6:00pm. Full lineup now confirmed via Songkick: In This Moment, Hollywood Undead, I See Stars, Vana, and Melrose Avenue.",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  },
-  {
-   "id": "a59f0f2e00da",
-   "title": "Candlelight: Vivaldi's Four Seasons",
-   "city": "Reno, NV",
-   "venue": "Carson City Community Center",
-   "address": "851 E William St, Carson City, NV 89701",
-   "start": "2026-10-22T18:30:00-07:00",
-   "end": "2026-10-22T19:45:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "music",
-   "genre": "music",
-   "price": "classical (Candlelight series, Listeso String Quartet) · from $35.50 (Zone C; higher zones sold out) · Carson City, NV (counts for the Reno leg) · leg: Reno (Oct 18-22) · source: vivaldicandlelight.com (Fever) · ⚠ END TIME NOT CONFIRMED — 75 min duration assumed",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  },
-  {
-   "id": "208304287125",
-   "title": "WhistlePig Whiskey Dinner",
-   "city": "Reno, NV",
-   "venue": "Anthony's Chophouse (Nugget Casino Resort)",
-   "address": "1100 Nugget Ave, Sparks, NV",
-   "start": "2026-10-22T18:30:00-07:00",
-   "end": "2026-10-22T21:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "food",
-   "genre": "food",
-   "price": "price not confirmed · Sparks, NV · Reno leg · whiskey pairing dinner · CONFIRMED venue-direct via Nugget Casino Resort's own events calendar (cnty.com/nugget), Oct 22 · source: nuggetcasinoresort.com / ediblerenotahoe.com",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  },
-  {
-   "id": "282b15e3bc25",
-   "title": "Gold Hill Hotel Haunted Ghost Tour",
-   "city": "Reno, NV",
-   "venue": "Virginia City",
-   "address": "1540 S Main St, Virginia City, NV 89440",
-   "start": "2026-10-22T19:00:00-07:00",
-   "end": "2026-10-22T20:30:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "food",
-   "genre": "food",
-   "price": "$35/person tour-only or $60/person dinner+tour (plus gratuity) · Virginia City, NV · Reno leg · Haunted history tour by Northern Nevada Ghost Hunters at the historic Gold Hill Hotel, part of Hauntober · source: virginia-city-tourism-commi.locable.com/events/625179 · reservations 775-847-0111 · ⚠ TIME NOT CONFIRMED — 7:00pm tour assumed from recurring pattern (dinner seating often ~5:30pm), not explicitly reconfirmed for this date",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  },
-  {
-   "id": "0409cc006d85",
-   "title": "Maire & Chris (harp & guitar duo)",
-   "city": "Reno, NV",
-   "venue": "Brewery Arts Center, Carson City",
-   "address": "449 W King St, Carson City, NV",
-   "start": "2026-10-22T19:00:00-07:00",
-   "end": "2026-10-22T22:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "acoustic folk/Celtic-leaning harp & guitar duo, seated show · $20 advance / $25 door",
-   "url": "",
-   "source": "breweryarts.org/events",
-   "star": false,
-   "notes": "City: Carson City · Leg: Reno (Oct 18 – 22)\nAll ages, seated.",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  },
-  {
-   "id": "d272da1d0643",
-   "title": "Water for Elephants",
-   "city": "Reno, NV",
-   "venue": "Pioneer Center, Reno",
-   "address": "100 S Virginia St, Reno, NV 89501",
-   "start": "2026-10-22T19:00:00-07:00",
-   "end": "2026-10-22T21:30:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "touring Broadway musical (not a priority-genre pick — flagged as a notable marquee-venue booking filling the thin Reno leg) · price not published",
-   "url": "",
-   "source": "waterforelephantsthemusical.com/tour, pioneercenter.com, downtownreno.org, hellotickets.com",
-   "star": false,
-   "notes": "7:00pm start now firmly confirmed across multiple sources (previously marked not-confirmed). This Oct 22 performance is reported almost sold out per ticket resellers — book soon if interested. End time and price still not published — box office 775-686-6600.",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  },
-  {
-   "id": "cfd1dd718b0a",
-   "title": "New Constellations w/ Vox Rea",
-   "city": "Reno, NV",
-   "venue": "Cargo Concert Hall",
-   "address": "255 N Virginia St, Reno, NV 89501",
-   "start": "2026-10-22T20:00:00-07:00",
-   "end": "2026-10-22T23:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "category": "music",
-   "genre": "Music",
-   "price": "indie folk-rock · $20 · all ages",
-   "url": "https://www.cargoreno.com/product/new-constellations",
-   "source": "https://www.cargoreno.com/product/new-constellations",
-   "star": false,
-   "notes": "Doors 7:00pm, show 8:00pm (confirmed 2026-09-20; earlier hold assumed 7:00pm).",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  },
-  {
-   "id": "9703b11fe6e5",
-   "title": "Candlelight: A Haunted Evening of Halloween Classics",
-   "city": "Reno, NV",
-   "venue": "Carson City Community Center",
-   "address": "851 E William St, Carson City, NV 89701",
-   "start": "2026-10-22T20:45:00-07:00",
-   "end": "2026-10-22T22:00:00-07:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "category": "music",
-   "genre": "music",
-   "price": "classical (Candlelight series, Listeso String Quartet, Halloween movie-score program) · from $34 · Carson City, NV (counts for the Reno leg) · leg: Reno (Oct 18-22) · source: concerts50.com · ⚠ END TIME NOT CONFIRMED — 75 min duration assumed",
-   "url": "",
-   "source": "",
-   "star": false,
-   "notes": "",
-   "alsoNear": [],
-   "legs": [
-    "reno"
-   ],
-   "reachable": true,
-   "spanEnd": "2026-10-22"
-  }
- ]
+ "events": []
 }
