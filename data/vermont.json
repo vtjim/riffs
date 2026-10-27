@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-10-26T18:52:25+00:00",
+  "generated": "2026-10-27T00:21:15+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -27,7 +27,7 @@
   ],
   "showDriveTime": true,
   "counts": {
-   "riffs": 93,
+   "riffs": 94,
    "reels": 13,
    "ridgelines": 41
   },
@@ -3125,6 +3125,27 @@
    "driveMin": 25,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weekly+Bird+Walk&dates=20270220T130000Z%2F20270220T143000Z&location=Rock+Point+Center%2C+20+Rock+Point+Rd%2C+Burlington%2C+VT"
+  },
+  {
+   "id": "9628910c4d11",
+   "title": "Dead Is Alive w/ Dobbs' Dead",
+   "category": "riffs",
+   "city": "Burlington",
+   "venue": "Einstein's Tap House",
+   "address": "Einstein's Tap House, 165 Church St, Burlington, VT 05401",
+   "start": "2027-02-23T20:00:00-05:00",
+   "end": "2027-02-23T23:00:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Grateful Dead tribute",
+   "price": "$15",
+   "url": "",
+   "source": "Burlington Brief, Seven Days community calendar",
+   "star": true,
+   "notes": "★ Grateful Dead tribute (category-1 priority match)\nGenre: Grateful Dead tribute\nPrice: $15\n~25-30 min from the Burlington area\nWeekly Tuesday series (\"Dead Is Alive\")\nSource: Burlington Brief, Seven Days community calendar",
+   "driveMin": 30,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dead+Is+Alive+w%2F+Dobbs%27+Dead&dates=20270224T010000Z%2F20270224T040000Z&location=Einstein%27s+Tap+House%2C+165+Church+St%2C+Burlington%2C+VT+05401"
   }
  ]
 }
