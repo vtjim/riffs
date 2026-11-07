@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-11-07T00:50:44+00:00",
+  "generated": "2026-11-07T17:52:00+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -29,7 +29,7 @@
   "counts": {
    "riffs": 60,
    "reels": 0,
-   "ridgelines": 46
+   "ridgelines": 47
   },
   "notes": [
    "Movie showtimes cover the Majestic 10's Tuesday discount night and are refreshed every Monday.",
@@ -39,48 +39,6 @@
   ]
  },
  "events": [
-  {
-   "id": "4676a28be6d0",
-   "title": "BTV Clean Up Crew",
-   "category": "ridgelines",
-   "city": "Burlington",
-   "venue": "Church Street Marketplace",
-   "address": "Church Street Marketplace (top of Church St), Burlington, VT 05401",
-   "start": "2026-11-05T07:30:00-05:00",
-   "end": "2026-11-05T08:30:00-05:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "genre": "Category: Community/park cleanup day — casual volunteer litter pickup; first-timers sign a waiver",
-   "price": "Free",
-   "url": "",
-   "source": "Seven Days feature, WCAX \"Stuck in Vermont\", Burlington Brief",
-   "star": false,
-   "notes": "Category: Community/park cleanup day — casual volunteer litter pickup; first-timers sign a waiver\nPrice: Free\n~25-30 min from the Burlington area\nWeekly Thursday 7:30 AM, standing recurring hold\nSource: Seven Days feature, WCAX \"Stuck in Vermont\", Burlington Brief",
-   "driveMin": 30,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BTV+Clean+Up+Crew&dates=20261105T123000Z%2F20261105T133000Z&location=Church+Street+Marketplace+%28top+of+Church+St%29%2C+Burlington%2C+VT+05401"
-  },
-  {
-   "id": "61c08c1ee423",
-   "title": "High Horse",
-   "category": "riffs",
-   "city": "Waterbury Center",
-   "venue": "ZenBarn",
-   "address": "ZenBarn, 179 Guptil Rd, Waterbury Center, VT 05677",
-   "start": "2026-11-05T18:00:00-05:00",
-   "end": "2026-11-05T21:00:00-05:00",
-   "allDay": false,
-   "timeConfirmed": false,
-   "genre": "Progressive acoustic stringband — bluegrass/old-time/folk drive, strong taste match",
-   "price": "not confirmed",
-   "url": "",
-   "source": "zenbarnvt.com calendar, JamBase",
-   "star": false,
-   "notes": "Genre: Progressive acoustic stringband — bluegrass/old-time/folk drive, strong taste match\nPrice: not confirmed\n~35 min from the Burlington area\nSource: zenbarnvt.com calendar, JamBase",
-   "driveMin": 35,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=High+Horse&dates=20261105T230000Z%2F20261106T020000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
-  },
   {
    "id": "090fb4eea72d",
    "title": "Dead Men Strumming",
@@ -313,6 +271,27 @@
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Williston+Craft+Show&dates=20261107T140000Z%2F20261107T210000Z&location=Williston+Central+School%2C+195+Central+School+Drive%2C+Williston%2C+VT+05495"
   },
   {
+   "id": "c4853d8eec0f",
+   "title": "Cantilever Rock Hike on Mt. Mansfield",
+   "category": "ridgelines",
+   "city": "Underhill",
+   "venue": "Underhill State Park",
+   "address": "Underhill State Park, Underhill, VT",
+   "start": "2026-11-07T10:00:00-05:00",
+   "end": "2026-11-07T12:00:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Category: Nature/hiking — guided rock scramble hike via Meetup group \"Forever 38\"",
+   "price": "Free",
+   "url": "",
+   "source": "meetup.com/forever-38, via Burlington Brief Fri 11/6 issue",
+   "star": false,
+   "notes": "Category: Nature/hiking — guided rock scramble hike via Meetup group \"Forever 38\"\nPrice: Free\n~25-30 min from the Burlington area\n⚠ End time estimated (~2 hrs) — not listed\nSource: meetup.com/forever-38, via Burlington Brief Fri 11/6 issue",
+   "driveMin": 30,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cantilever+Rock+Hike+on+Mt.+Mansfield&dates=20261107T150000Z%2F20261107T170000Z&location=Underhill+State+Park%2C+Underhill%2C+VT"
+  },
+  {
    "id": "948994936f4a",
    "title": "Vermont Crafters Expo",
    "category": "ridgelines",
@@ -332,6 +311,27 @@
    "driveMin": 25,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vermont+Crafters+Expo&dates=20261107T150000Z%2F20261107T220000Z&location=Champlain+Valley+Exposition%2C+105+Pearl+St%2C+Essex+Junction%2C+VT+05452"
+  },
+  {
+   "id": "031e20d25568",
+   "title": "Think Like a Squirrel! (Nature Program)",
+   "category": "ridgelines",
+   "city": "Burlington",
+   "venue": "Rock Point Center",
+   "address": "Rock Point Center, 20 Rock Point Rd, Burlington, VT 05401",
+   "start": "2026-11-07T10:30:00-05:00",
+   "end": "2026-11-07T11:30:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Category: Nature/wildlife — nut-foraging nature program",
+   "price": "Free, preregister",
+   "url": "",
+   "source": "frontporchforum.com, via Burlington Brief Fri 11/6 issue",
+   "star": false,
+   "notes": "Category: Nature/wildlife — nut-foraging nature program\nPrice: Free, preregister\n~25 min from the Burlington area\n⚠ End time estimated (~1 hr) — not listed\nSource: frontporchforum.com, via Burlington Brief Fri 11/6 issue",
+   "driveMin": 25,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Think+Like+a+Squirrel%21+%28Nature+Program%29&dates=20261107T153000Z%2F20261107T163000Z&location=Rock+Point+Center%2C+20+Rock+Point+Rd%2C+Burlington%2C+VT+05401"
   },
   {
    "id": "992ce245ee20",
@@ -383,18 +383,18 @@
    "venue": "Shelburne Vineyard",
    "address": "Shelburne Vineyard, 6308 Shelburne Rd, Shelburne, VT 05482",
    "start": "2026-11-07T18:00:00-05:00",
-   "end": "2026-11-07T21:00:00-05:00",
+   "end": "2026-11-07T20:00:00-05:00",
    "allDay": false,
    "timeConfirmed": true,
    "genre": "Americana/folk guitarist — collaborator with Anaïs Mitchell, Sarah Jarosz, Session Americana",
-   "price": "not listed",
+   "price": "Free (reservations via Resy)",
    "url": "",
-   "source": "shelburnevineyard.com/events-list",
+   "source": "shelburnevineyard.com/events-list/jefferson-hamer",
    "star": false,
-   "notes": "Genre: Americana/folk guitarist — collaborator with Anaïs Mitchell, Sarah Jarosz, Session Americana\nPrice: not listed\n~15-20 min from the Burlington area\n⚠ End time estimated — venue's listing spans Sat 6 PM through Sun 8 PM, likely a calendar-widget artifact rather than a 26-hour show; treating this as a Saturday evening performance.\nSource: shelburnevineyard.com/events-list",
+   "notes": "Genre: Americana/folk guitarist — collaborator with Anaïs Mitchell, Sarah Jarosz, Session Americana\nPrice: Free (reservations via Resy)\n~15-20 min from the Burlington area\nTwo-date engagement at Shelburne Vineyard: 6-8 PM Sat 11/7 (this hold) and 1-3 PM Sun 11/8 (separate hold)\nSource: shelburnevineyard.com/events-list/jefferson-hamer",
    "driveMin": 20,
    "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jefferson+Hamer&dates=20261107T230000Z%2F20261108T020000Z&location=Shelburne+Vineyard%2C+6308+Shelburne+Rd%2C+Shelburne%2C+VT+05482"
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jefferson+Hamer&dates=20261107T230000Z%2F20261108T010000Z&location=Shelburne+Vineyard%2C+6308+Shelburne+Rd%2C+Shelburne%2C+VT+05482"
   },
   {
    "id": "93692f5f4d86",
@@ -458,6 +458,27 @@
    "driveMin": 25,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Danny+%26+The+Parts&dates=20261108T180000Z%2F20261108T210000Z&location=Foam+Brewers%2C+112+Lake+St%2C+Burlington%2C+VT+05401"
+  },
+  {
+   "id": "b55df0782b5e",
+   "title": "Jefferson Hamer",
+   "category": "riffs",
+   "city": "Shelburne",
+   "venue": "Shelburne Vineyard",
+   "address": "Shelburne Vineyard, 6308 Shelburne Rd, Shelburne, VT 05482",
+   "start": "2026-11-08T13:00:00-05:00",
+   "end": "2026-11-08T15:00:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Americana/folk guitarist — collaborator with Anaïs Mitchell, Sarah Jarosz, Session Americana",
+   "price": "Free (reservations via Resy)",
+   "url": "",
+   "source": "shelburnevineyard.com/events-list/jefferson-hamer",
+   "star": false,
+   "notes": "Genre: Americana/folk guitarist — collaborator with Anaïs Mitchell, Sarah Jarosz, Session Americana\nPrice: Free (reservations via Resy)\n~15-20 min from the Burlington area\nSecond date of his Shelburne Vineyard engagement (see also the Sat 11/7 6-8 PM hold)\nSource: shelburnevineyard.com/events-list/jefferson-hamer",
+   "driveMin": 20,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jefferson+Hamer&dates=20261108T180000Z%2F20261108T200000Z&location=Shelburne+Vineyard%2C+6308+Shelburne+Rd%2C+Shelburne%2C+VT+05482"
   },
   {
    "id": "f91f11af6d51",
