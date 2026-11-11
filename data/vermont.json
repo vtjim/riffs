@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-11-11T01:11:29+00:00",
+  "generated": "2026-11-11T19:52:35+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -39,27 +39,6 @@
   ]
  },
  "events": [
-  {
-   "id": "e0e704465519",
-   "title": "Free Nature Playgroup",
-   "category": "ridgelines",
-   "city": "Huntington",
-   "venue": "Green Mountain Audubon Center",
-   "address": "Green Mountain Audubon Center, 255 Sherman Hollow Rd, Huntington, VT 05462",
-   "start": "2026-11-09T09:30:00-05:00",
-   "end": "2026-11-09T11:00:00-05:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "genre": "Category: Nature/wildlife program (recurring Mondays) — caregiver/kids nature program",
-   "price": "Free",
-   "url": "",
-   "source": "audubon.org/vermont",
-   "star": false,
-   "notes": "Category: Nature/wildlife program (recurring Mondays) — caregiver/kids nature program\nPrice: Free\n~25 min from the Burlington area\nSource: audubon.org/vermont",
-   "driveMin": 25,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Free+Nature+Playgroup&dates=20261109T143000Z%2F20261109T160000Z&location=Green+Mountain+Audubon+Center%2C+255+Sherman+Hollow+Rd%2C+Huntington%2C+VT+05462"
-  },
   {
    "id": "6375cdc10529",
    "title": "The Only Living Pickpocket in New York",
@@ -3020,6 +2999,27 @@
    "driveMin": 40,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dobbs%27+Dead&dates=20270310T230000Z%2F20270311T020000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
+  },
+  {
+   "id": "01b6c9ec4a8c",
+   "title": "BTV Clean Up Crew",
+   "category": "ridgelines",
+   "city": "Burlington",
+   "venue": "Church Street Marketplace",
+   "address": "Church Street Marketplace (top of Church St), Burlington, VT 05401",
+   "start": "2027-03-11T07:30:00-05:00",
+   "end": "2027-03-11T08:30:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Category: Community/park cleanup day — casual volunteer litter pickup; first-timers sign a waiver",
+   "price": "Free",
+   "url": "",
+   "source": "Seven Days feature, WCAX \"Stuck in Vermont\", Burlington Brief",
+   "star": false,
+   "notes": "Category: Community/park cleanup day — casual volunteer litter pickup; first-timers sign a waiver\nPrice: Free\n~25-30 min from the Burlington area\nWeekly Thursday 7:30 AM, standing recurring hold\nSource: Seven Days feature, WCAX \"Stuck in Vermont\", Burlington Brief",
+   "driveMin": 30,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BTV+Clean+Up+Crew&dates=20270311T123000Z%2F20270311T133000Z&location=Church+Street+Marketplace+%28top+of+Church+St%29%2C+Burlington%2C+VT+05401"
   }
  ]
 }
