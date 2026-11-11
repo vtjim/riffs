@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-11-10T20:01:40+00:00",
+  "generated": "2026-11-11T01:11:29+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -27,7 +27,7 @@
   ],
   "showDriveTime": true,
   "counts": {
-   "riffs": 81,
+   "riffs": 82,
    "reels": 17,
    "ridgelines": 43
   },
@@ -2999,6 +2999,27 @@
    "driveMin": 30,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dead+Is+Alive+w%2F+Dobbs%27+Dead&dates=20270310T010000Z%2F20270310T040000Z&location=Einstein%27s+Tap+House%2C+165+Church+St%2C+Burlington%2C+VT+05401"
+  },
+  {
+   "id": "02ad8600e320",
+   "title": "Dobbs' Dead",
+   "category": "riffs",
+   "city": "Waterbury Center",
+   "venue": "ZenBarn (Wednesday Night Dead, weekly)",
+   "address": "ZenBarn, 179 Guptil Rd, Waterbury Center, VT 05677",
+   "start": "2027-03-10T18:00:00-05:00",
+   "end": "2027-03-10T21:00:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Grateful Dead tribute (jam/roots)",
+   "price": "not stated",
+   "url": "",
+   "source": "ZenBarn calendar (zenbarnvt.com)",
+   "star": false,
+   "notes": "Genre: Grateful Dead tribute (jam/roots)\nPrice: not stated\n~35-40 min from the Burlington area\nWeekly \"Wednesday Night Dead\" residency, doors 6 / show 7 PM\nSource: ZenBarn calendar (zenbarnvt.com)",
+   "driveMin": 40,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dobbs%27+Dead&dates=20270310T230000Z%2F20270311T020000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
   }
  ]
 }
