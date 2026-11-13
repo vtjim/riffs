@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-11-13T01:45:18+00:00",
+  "generated": "2026-11-13T20:04:11+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -27,9 +27,9 @@
   ],
   "showDriveTime": true,
   "counts": {
-   "riffs": 81,
+   "riffs": 80,
    "reels": 0,
-   "ridgelines": 43
+   "ridgelines": 45
   },
   "notes": [
    "Movie showtimes cover the Majestic 10's Tuesday discount night and are refreshed every Monday.",
@@ -39,48 +39,6 @@
   ]
  },
  "events": [
-  {
-   "id": "26393ae177a5",
-   "title": "Dale & Darcy",
-   "category": "riffs",
-   "city": "Stowe",
-   "venue": "The Alchemist",
-   "address": "The Alchemist, 100 Cottage Club Rd, Stowe, VT 05672",
-   "start": "2026-11-11T16:00:00-05:00",
-   "end": "2026-11-11T19:00:00-05:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "genre": "Americana/Celtic/bluegrass/roots duo",
-   "price": "Free",
-   "url": "",
-   "source": "alchemistbeer.com/events/",
-   "star": false,
-   "notes": "Genre: Americana/Celtic/bluegrass/roots duo\nPrice: Free\n~45 min from the Burlington area (core/mid border)\nSource: alchemistbeer.com/events/",
-   "driveMin": 45,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dale+%26+Darcy&dates=20261111T210000Z%2F20261112T000000Z&location=The+Alchemist%2C+100+Cottage+Club+Rd%2C+Stowe%2C+VT+05672"
-  },
-  {
-   "id": "d67454749155",
-   "title": "Dobbs' Dead",
-   "category": "riffs",
-   "city": "Waterbury Center",
-   "venue": "ZenBarn (Wednesday Night Dead, weekly)",
-   "address": "ZenBarn, 179 Guptil Rd, Waterbury Center, VT 05677",
-   "start": "2026-11-11T18:00:00-05:00",
-   "end": "2026-11-11T21:00:00-05:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "genre": "Grateful Dead tribute (jam/roots)",
-   "price": "not stated",
-   "url": "",
-   "source": "ZenBarn calendar (zenbarnvt.com)",
-   "star": false,
-   "notes": "Genre: Grateful Dead tribute (jam/roots)\nPrice: not stated\n~35-40 min from the Burlington area\nWeekly \"Wednesday Night Dead\" residency, doors 6 / show 7 PM\nSource: ZenBarn calendar (zenbarnvt.com)",
-   "driveMin": 40,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dobbs%27+Dead&dates=20261111T230000Z%2F20261112T020000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
-  },
   {
    "id": "8dd433e1fba5",
    "title": "BTV Clean Up Crew",
@@ -376,6 +334,27 @@
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=November+Crafters+Market&dates=20261114T140000Z%2F20261114T173000Z&location=Middlebury+Farmers+Market%2C+Middlebury%2C+VT+05753"
   },
   {
+   "id": "f434454ede8d",
+   "title": "Touch of Vermont Holiday Gift Market",
+   "category": "ridgelines",
+   "city": "Montpelier",
+   "venue": "Capitol Plaza Hotel",
+   "address": "Capitol Plaza Hotel, 100 State St, Montpelier, VT 05602",
+   "start": "2026-11-14T10:00:00-05:00",
+   "end": "2026-11-14T16:00:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Category: Craft/holiday gift market — 40+ Vermont artisans",
+   "price": "Free admission",
+   "url": "",
+   "source": "WebSearch (takemetothefair.pages.dev)",
+   "star": false,
+   "notes": "Category: Craft/holiday gift market — 40+ Vermont artisans\nPrice: Free admission\n~50-55 min from the Burlington area (mid tier)\nSource: WebSearch (takemetothefair.pages.dev)",
+   "driveMin": 55,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Touch+of+Vermont+Holiday+Gift+Market&dates=20261114T150000Z%2F20261114T210000Z&location=Capitol+Plaza+Hotel%2C+100+State+St%2C+Montpelier%2C+VT+05602"
+  },
+  {
    "id": "b97f535e808f",
    "title": "Harvest Festival",
    "category": "ridgelines",
@@ -437,6 +416,27 @@
    "driveMin": 30,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pride+Hike%3A+Shelburne+Farms&dates=20261114T180000Z%2F20261114T200000Z&location=Shelburne+Farms%2C+1611+Harbor+Rd%2C+Shelburne%2C+VT+05482"
+  },
+  {
+   "id": "b38e666aded0",
+   "title": "The High Breaks",
+   "category": "riffs",
+   "city": "Stowe",
+   "venue": "The Alchemist",
+   "address": "The Alchemist, 100 Cottage Club Rd, Stowe, VT 05672",
+   "start": "2026-11-14T16:00:00-05:00",
+   "end": "2026-11-14T18:00:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Funk/soul-rock (priority 5/6, roots-adjacent — Burlington brewery-circuit funk band)",
+   "price": "Free",
+   "url": "",
+   "source": "alchemistbeer.com/events/",
+   "star": false,
+   "notes": "Genre: Funk/soul-rock (priority 5/6, roots-adjacent — Burlington brewery-circuit funk band)\nPrice: Free\n~45 min from the Burlington area\nSource: alchemistbeer.com/events/",
+   "driveMin": 45,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+High+Breaks&dates=20261114T210000Z%2F20261114T230000Z&location=The+Alchemist%2C+100+Cottage+Club+Rd%2C+Stowe%2C+VT+05672"
   },
   {
    "id": "26548cf0d4b9",
@@ -2642,6 +2642,27 @@
    "driveMin": 30,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BTV+Clean+Up+Crew&dates=20270311T123000Z%2F20270311T133000Z&location=Church+Street+Marketplace+%28top+of+Church+St%29%2C+Burlington%2C+VT+05401"
+  },
+  {
+   "id": "f645e987e52d",
+   "title": "Weekly Bird Walk",
+   "category": "ridgelines",
+   "city": "Burlington",
+   "venue": "Rock Point Center",
+   "address": "Rock Point Center, 20 Rock Point Rd, Burlington, VT",
+   "start": "2027-03-13T08:00:00-05:00",
+   "end": "2027-03-13T09:30:00-05:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Category: Nature/wildlife program (recurring weekly Saturday walk)",
+   "price": "Free, preregister",
+   "url": "",
+   "source": "Burlington Brief (Fri 10/23 issue)",
+   "star": false,
+   "notes": "Category: Nature/wildlife program (recurring weekly Saturday walk)\nPrice: Free, preregister\n~25 min from the Burlington area\n⚠ end time estimated (~90 min) — not listed; single-sourced\nSource: Burlington Brief (Fri 10/23 issue)",
+   "driveMin": 25,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weekly+Bird+Walk&dates=20270313T130000Z%2F20270313T143000Z&location=Rock+Point+Center%2C+20+Rock+Point+Rd%2C+Burlington%2C+VT"
   }
  ]
 }
