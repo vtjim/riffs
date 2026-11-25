@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-11-25T04:04:28+00:00",
+  "generated": "2026-11-25T21:59:23+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -27,9 +27,9 @@
   ],
   "showDriveTime": true,
   "counts": {
-   "riffs": 84,
+   "riffs": 83,
    "reels": 18,
-   "ridgelines": 50
+   "ridgelines": 51
   },
   "notes": [
    "Movie showtimes cover the Majestic 10's Tuesday discount night and are refreshed every Monday.",
@@ -565,46 +565,25 @@
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lloyd+Tyler+Band&dates=20261125T223000Z%2F20261126T013000Z&location=Switchback+Beer+Garden+%26+Smokehouse%2C+160+Flynn+Ave%2C+Burlington%2C+VT+05401"
   },
   {
-   "id": "18b21c92a376",
-   "title": "Bluegrass Nights (feat. Good Gravy / Joe Agnello)",
-   "category": "riffs",
-   "city": "Burlington",
-   "venue": "Foam Brewers",
-   "address": "Foam Brewers, 112 Lake St, Burlington, VT 05401",
-   "start": "2026-11-25T18:00:00-05:00",
-   "end": "2026-11-25T21:00:00-05:00",
-   "allDay": false,
-   "timeConfirmed": true,
-   "genre": "Bluegrass jam session — bring acoustic instruments, all skill levels welcome",
-   "price": "Free",
-   "url": "",
-   "source": "foambrewers.com/events",
-   "star": true,
-   "notes": "★ FOLLOWED ARTIST — weekly Bluegrass Nights jam session hosted by Good Gravy (Joe Agnello's bluegrass trio) and Joe Agnello.\nGenre: Bluegrass jam session — bring acoustic instruments, all skill levels welcome\nPrice: Free\n~25 min from the Burlington area\nWeekly Wednesday series (restored — had lapsed off the calendar since mid-September; foambrewers.com/events still lists it every Wednesday)\nSource: foambrewers.com/events",
-   "driveMin": 25,
-   "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bluegrass+Nights+%28feat.+Good+Gravy+%2F+Joe+Agnello%29&dates=20261125T230000Z%2F20261126T020000Z&location=Foam+Brewers%2C+112+Lake+St%2C+Burlington%2C+VT+05401"
-  },
-  {
    "id": "61efd000042c",
-   "title": "Dobbs' Dead",
+   "title": "Dead/Not Dead",
    "category": "riffs",
    "city": "Waterbury Center",
-   "venue": "ZenBarn (Wednesday Night Dead, weekly)",
+   "venue": "ZenBarn (Wednesday Night Dead)",
    "address": "ZenBarn, 179 Guptil Rd, Waterbury Center, VT 05677",
    "start": "2026-11-25T18:00:00-05:00",
    "end": "2026-11-25T21:00:00-05:00",
    "allDay": false,
    "timeConfirmed": true,
-   "genre": "Grateful Dead tribute (jam/roots)",
+   "genre": "Grateful Dead / \"Not-Dead\" eclectic covers (Dylan, Marley, JGB-style R&B) — jam/roots",
    "price": "not stated",
    "url": "",
-   "source": "ZenBarn calendar (zenbarnvt.com)",
+   "source": "zenbarnvt.com/calendar (checked 2026-11-25)",
    "star": false,
-   "notes": "Genre: Grateful Dead tribute (jam/roots)\nPrice: not stated\n~35-40 min from the Burlington area\nWeekly \"Wednesday Night Dead\" residency, doors 6 / show 7 PM\nSource: ZenBarn calendar (zenbarnvt.com)",
+   "notes": "CHANGED this week: it's Dead/Not Dead playing the Wednesday Night Dead slot tonight, not the usual Dobbs' Dead.\nGenre: Grateful Dead / \"Not-Dead\" eclectic covers (Dylan, Marley, JGB-style R&B) — jam/roots\nPrice: not stated\n~35-40 min from the Burlington area\nDoors 6 / show 7 PM. Dead/Not Dead plays this slot the first Wednesday of each month in 2026 per zenbarnvt.com.\nSource: zenbarnvt.com/calendar (checked 2026-11-25)",
    "driveMin": 40,
    "bookAhead": false,
-   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dobbs%27+Dead&dates=20261125T230000Z%2F20261126T020000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dead%2FNot+Dead&dates=20261125T230000Z%2F20261126T020000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
   },
   {
    "id": "1c1a4cb69cc5",
@@ -3230,6 +3209,27 @@
    "driveMin": 40,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dobbs%27+Dead&dates=20270324T220000Z%2F20270325T010000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
+  },
+  {
+   "id": "95b1d79f6f5a",
+   "title": "BTV Clean Up Crew",
+   "category": "ridgelines",
+   "city": "Burlington",
+   "venue": "Church Street Marketplace",
+   "address": "Church Street Marketplace (top of Church St), Burlington, VT 05401",
+   "start": "2027-03-25T07:30:00-04:00",
+   "end": "2027-03-25T08:30:00-04:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Category: Community/park cleanup day — casual volunteer litter pickup; first-timers sign a waiver",
+   "price": "Free",
+   "url": "",
+   "source": "Seven Days feature, WCAX \"Stuck in Vermont\", Burlington Brief",
+   "star": false,
+   "notes": "Category: Community/park cleanup day — casual volunteer litter pickup; first-timers sign a waiver\nPrice: Free\n~25-30 min from the Burlington area\nWeekly Thursday 7:30 AM, standing recurring hold\nSource: Seven Days feature, WCAX \"Stuck in Vermont\", Burlington Brief",
+   "driveMin": 30,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BTV+Clean+Up+Crew&dates=20270325T113000Z%2F20270325T123000Z&location=Church+Street+Marketplace+%28top+of+Church+St%29%2C+Burlington%2C+VT+05401"
   }
  ]
 }
