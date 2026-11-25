@@ -2,7 +2,7 @@
  "meta": {
   "title": "Reels, Riffs & Ridgelines",
   "subtitle": "Movies, live music and the outdoors around northern Vermont",
-  "generated": "2026-11-24T22:46:41+00:00",
+  "generated": "2026-11-25T04:04:28+00:00",
   "timezone": "America/New_York",
   "origin": "Burlington area, VT",
   "facets": [
@@ -27,7 +27,7 @@
   ],
   "showDriveTime": true,
   "counts": {
-   "riffs": 82,
+   "riffs": 84,
    "reels": 18,
    "ridgelines": 50
   },
@@ -3188,6 +3188,48 @@
    "driveMin": 30,
    "bookAhead": false,
    "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dead+Is+Alive+w%2F+Dobbs%27+Dead&dates=20270324T000000Z%2F20270324T030000Z&location=Einstein%27s+Tap+House%2C+165+Church+St%2C+Burlington%2C+VT+05401"
+  },
+  {
+   "id": "b7cd98ae3e08",
+   "title": "Bluegrass Nights (feat. Good Gravy / Joe Agnello)",
+   "category": "riffs",
+   "city": "Burlington",
+   "venue": "Foam Brewers",
+   "address": "Foam Brewers, 112 Lake St, Burlington, VT 05401",
+   "start": "2027-03-24T18:00:00-04:00",
+   "end": "2027-03-24T21:00:00-04:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Bluegrass jam session — bring acoustic instruments, all skill levels welcome",
+   "price": "Free",
+   "url": "",
+   "source": "foambrewers.com/events",
+   "star": true,
+   "notes": "★ FOLLOWED ARTIST — weekly Bluegrass Nights jam session hosted by Good Gravy (Joe Agnello's bluegrass trio) and Joe Agnello.\nGenre: Bluegrass jam session — bring acoustic instruments, all skill levels welcome\nPrice: Free\n~25 min from the Burlington area\nWeekly Wednesday series (restored — had lapsed off the calendar since mid-September; foambrewers.com/events still lists it every Wednesday)\nSource: foambrewers.com/events",
+   "driveMin": 25,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bluegrass+Nights+%28feat.+Good+Gravy+%2F+Joe+Agnello%29&dates=20270324T220000Z%2F20270325T010000Z&location=Foam+Brewers%2C+112+Lake+St%2C+Burlington%2C+VT+05401"
+  },
+  {
+   "id": "e76e0126702c",
+   "title": "Dobbs' Dead",
+   "category": "riffs",
+   "city": "Waterbury Center",
+   "venue": "ZenBarn (Wednesday Night Dead, weekly)",
+   "address": "ZenBarn, 179 Guptil Rd, Waterbury Center, VT 05677",
+   "start": "2027-03-24T18:00:00-04:00",
+   "end": "2027-03-24T21:00:00-04:00",
+   "allDay": false,
+   "timeConfirmed": true,
+   "genre": "Grateful Dead tribute (jam/roots)",
+   "price": "not stated",
+   "url": "",
+   "source": "ZenBarn calendar (zenbarnvt.com)",
+   "star": false,
+   "notes": "Genre: Grateful Dead tribute (jam/roots)\nPrice: not stated\n~35-40 min from the Burlington area\nWeekly \"Wednesday Night Dead\" residency, doors 6 / show 7 PM\nSource: ZenBarn calendar (zenbarnvt.com)",
+   "driveMin": 40,
+   "bookAhead": false,
+   "calendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dobbs%27+Dead&dates=20270324T220000Z%2F20270325T010000Z&location=ZenBarn%2C+179+Guptil+Rd%2C+Waterbury+Center%2C+VT+05677"
   }
  ]
 }
